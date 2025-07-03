@@ -42,12 +42,12 @@
 ## 📊 **Mis estadísticas (¡empezando!)**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitforge&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitforge&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME_AQUI&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME_AQUI&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitforge&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=45B7D1&fire=4ECDC4&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME_AQUI&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=45B7D1&fire=4ECDC4&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </div>
 
 ## 🏆 **Retos completados**
@@ -67,37 +67,14 @@
 
 ## 📚 **Recursos que me están ayudando**
 
+* 📖 [Documentación oficial de C++](https://cplusplus.com/doc/)
+* 🎥 [Tutoriales en YouTube](https://www.youtube.com/results?search_query=c%2B%2B+tutorial+español)
+* 💻 [Retos de programación](https://www.hackerrank.com/domains/cpp)
+* 🤝 [Comunidad de desarrolladores](https://stackoverflow.com/questions/tagged/c%2B%2B)
+* 📝 Práctica diaria
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80px">
-        <br><strong>📖 Documentación oficial de C++</strong>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px">
-        <br><strong>🎥 Tutoriales en YouTube</strong>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px">
-        <br><strong>💻 Retos de programación</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px">
-        <br><strong>🤝 Comunidad de desarrolladores</strong>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="80px">
-        <br><strong>📝 Práctica diaria</strong>
-      </td>
-      <td align="center">
-        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80px">
-        <br><strong>🧠 Experimentación</strong>
-      </td>
-    </tr>
-  </table>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </div>
 
 <div align="center">
@@ -123,13 +100,13 @@
 ## 🌟 **Actividad reciente**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bitforge&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME_AQUI&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bitforge&color=blueviolet&style=for-the-badge&label=VISITANTES" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME_AQUI&color=blueviolet&style=for-the-badge&label=VISITANTES" alt="Profile Views" />
 </div>
 
 <div align="center">
