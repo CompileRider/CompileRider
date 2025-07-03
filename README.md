@@ -214,6 +214,7 @@
     </tr>
     <tr>
       <td align="left">💻</td>
+      <td align="left"><b>Agregó documentación al proyecto C++</b></td>
       <td align="right"><code>hace 2 días</code></td>
     </tr>
     <tr>
