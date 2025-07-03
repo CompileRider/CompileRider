@@ -42,12 +42,12 @@
 ## 📊 **Mis estadísticas (¡empezando!)**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME_AQUI&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME_AQUI&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BitForge&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitForge&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME_AQUI&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=45B7D1&fire=4ECDC4&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BitForge&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=45B7D1&fire=4ECDC4&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </div>
 
 ## 🏆 **Retos completados**
@@ -106,7 +106,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME_AQUI&color=blueviolet&style=for-the-badge&label=VISITANTES" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=BitForge&color=blueviolet&style=for-the-badge&label=VISITANTES" alt="Profile Views" />
 </div>
 
 <div align="center">
