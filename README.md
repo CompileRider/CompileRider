@@ -317,7 +317,7 @@
         <div align="center">
           <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white">
           <br>
-          <sub><em>Proyecto increíble en desarrollo</em></sub>
+          <sub><em>Espero que algun dia suceda</em></sub>
         </div>
       </td>
       <td width="50%">
