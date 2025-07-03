@@ -351,7 +351,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="mailto:tu-email@gmail.com" target="_blank">
+        <a href="mailto:esmilviciosomercado@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
       </td>
