@@ -42,12 +42,12 @@
 ## 📊 **Mis estadísticas (¡empezando!)**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bitforge&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitforge&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=45B7D1&fire=4ECDC4&currStreakLabel=FF6B6B" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bitforge&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=45B7D1&fire=4ECDC4&currStreakLabel=FF6B6B" alt="GitHub Streak" />
 </div>
 
 ## 🏆 **Retos completados**
@@ -58,11 +58,11 @@
 
 ### 💻 **Weekly Challenge 2022**
 * 🎯 Resolviendo retos semanales en **C++** → [Ver repositorio de MoureDev](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-* 📈 Mejorando mis habilidades paso a paso → [Mi progreso](https://github.com/TU_USERNAME/weekly-challenges)
-* 🧠 Aprendiendo nuevos conceptos cada semana → [Retos completados](https://github.com/TU_USERNAME/cpp-challenges)
+* 📈 Mejorando mis habilidades paso a paso → [Mi progreso](https://github.com/bitforge/weekly-challenges)
+* 🧠 Aprendiendo nuevos conceptos cada semana → [Retos completados](https://github.com/bitforge/cpp-challenges)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=💡+%22No+soy+el+mejor+en+C%2B%2B...%22;🌟+%22...pero+me+gusta+el+lenguaje%22;🚀+%22...y+cada+día+aprendo+algo+nuevo%22" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El+código+es+como+el+humor.+Cuando+tienes+que+explicarlo,+es+malo&author=Cory+House" alt="Dev Quote" />
 </div>
 
 ## 📚 **Recursos que me están ayudando**
@@ -124,7 +124,7 @@
 
 * [ ] [Completar más retos de programación](https://leetcode.com/problemset/all/)
 * [ ] [Aprender sobre estructuras de datos](https://www.geeksforgeeks.org/data-structures/)
-* [ ] [Construir mi primer proyecto personal](https://github.com/TU_USERNAME/mi-primer-proyecto)
+* [ ] [Construir mi primer proyecto personal](https://github.com/bitforge/mi-primer-proyecto)
 * [ ] [Contribuir a proyectos open source](https://github.com/topics/good-first-issue)
 * [ ] [Seguir mejorando en C++](https://www.learncpp.com/)
 
@@ -135,13 +135,13 @@
 ## 🌟 **Actividad reciente**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bitforge&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&color=blueviolet&style=for-the-badge&label=VISITANTES" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bitforge&color=blueviolet&style=for-the-badge&label=VISITANTES" alt="Profile Views" />
 </div>
 
 <div align="center">
