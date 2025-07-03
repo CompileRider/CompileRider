@@ -36,28 +36,28 @@
 
 ---
 
-## 🌟 **Proyectos Destacados**
+## 🌟 **Mis Proyectos**
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
   
-  <h3>🔥 Mis Repositorios más Cool</h3>
+  <h3>🔥 Repositorios en Desarrollo</h3>
   
   <table>
     <tr>
       <td align="center" width="50%">
-        <a href="https://github.com/CompileRider/weekly-challenges">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CompileRider&repo=weekly-challenges&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Status-🔥%20Active-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B">
+        <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
+          <h4>📚 Weekly Challenges</h4>
+          <p>Retos semanales de programación en C++</p>
+          <img src="https://img.shields.io/badge/Status-🔥%20Active-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B">
+        </div>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/CompileRider/cpp-learning">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CompileRider&repo=cpp-learning&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Status-📚%20Learning-blue?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=4ECDC4">
+        <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 10px; color: white;">
+          <h4>💻 C++ Learning</h4>
+          <p>Documentación y ejercicios de aprendizaje</p>
+          <img src="https://img.shields.io/badge/Status-📚%20Learning-blue?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=4ECDC4">
+        </div>
       </td>
     </tr>
   </table>
@@ -81,31 +81,51 @@
     <tr>
       <td align="left" width="200"><b>🔵 C++ Fundamentos</b></td>
       <td align="left" width="300">
-        <img src="https://progress-bar.dev/75/?scale=100&title=75%&width=250&color=FF6B6B&suffix=%">
+        <div style="background: #f0f0f0; border-radius: 10px; padding: 2px;">
+          <div style="background: linear-gradient(90deg, #FF6B6B, #ff4757); width: 75%; padding: 8px; border-radius: 8px; color: white; text-align: center;">
+            <strong>75%</strong>
+          </div>
+        </div>
       </td>
     </tr>
     <tr>
       <td align="left"><b>🟢 Git/GitHub</b></td>
       <td align="left">
-        <img src="https://progress-bar.dev/90/?scale=100&title=90%&width=250&color=4ECDC4&suffix=%">
+        <div style="background: #f0f0f0; border-radius: 10px; padding: 2px;">
+          <div style="background: linear-gradient(90deg, #4ECDC4, #2ed573); width: 90%; padding: 8px; border-radius: 8px; color: white; text-align: center;">
+            <strong>90%</strong>
+          </div>
+        </div>
       </td>
     </tr>
     <tr>
       <td align="left"><b>🟡 Estructuras de Datos</b></td>
       <td align="left">
-        <img src="https://progress-bar.dev/45/?scale=100&title=45%&width=250&color=45B7D1&suffix=%">
+        <div style="background: #f0f0f0; border-radius: 10px; padding: 2px;">
+          <div style="background: linear-gradient(90deg, #45B7D1, #3742fa); width: 45%; padding: 8px; border-radius: 8px; color: white; text-align: center;">
+            <strong>45%</strong>
+          </div>
+        </div>
       </td>
     </tr>
     <tr>
       <td align="left"><b>🟠 Algoritmos</b></td>
       <td align="left">
-        <img src="https://progress-bar.dev/35/?scale=100&title=35%&width=250&color=96CEB4&suffix=%">
+        <div style="background: #f0f0f0; border-radius: 10px; padding: 2px;">
+          <div style="background: linear-gradient(90deg, #96CEB4, #1dd1a1); width: 35%; padding: 8px; border-radius: 8px; color: white; text-align: center;">
+            <strong>35%</strong>
+          </div>
+        </div>
       </td>
     </tr>
     <tr>
       <td align="left"><b>🔴 Resolución de Problemas</b></td>
       <td align="left">
-        <img src="https://progress-bar.dev/60/?scale=100&title=60%&width=250&color=FFD93D&suffix=%">
+        <div style="background: #f0f0f0; border-radius: 10px; padding: 2px;">
+          <div style="background: linear-gradient(90deg, #FFD93D, #f39c12); width: 60%; padding: 8px; border-radius: 8px; color: white; text-align: center;">
+            <strong>60%</strong>
+          </div>
+        </div>
       </td>
     </tr>
   </table>
@@ -260,8 +280,8 @@
 | 🎯 Objetivo | 📈 Progreso | 🔗 Enlaces |
 |:----------:|:----------:|:----------:|
 | Retos semanales en C++ | 🟢 Activo | [Ver repositorio de MoureDev](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin) |
-| Mejorando habilidades | 📊 En progreso | [Mi progreso](https://github.com/CompileRider?tab=repositories) |
-| Aprendiendo conceptos | 🧠 Constante | [Repositorios públicos](https://github.com/CompileRider?tab=repositories&q=&type=public) |
+| Mejorando habilidades | 📊 En progreso | [Mi perfil](https://github.com/CompileRider) |
+| Aprendiendo conceptos | 🧠 Constante | [Mis repositorios](https://github.com/CompileRider?tab=repositories) |
 
 </div>
 
