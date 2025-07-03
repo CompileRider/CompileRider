@@ -269,7 +269,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/api?type=horizontal&theme=radical&quote=La%20programación%20es%20el%20arte%20de%20resolver%20problemas%20de%20manera%20elegante&author=bitforge&width=600&height=200" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=La%20programación%20es%20el%20arte%20de%20resolver%20problemas%20de%20manera%20elegante&author=bitforge" alt="Programming Quote" />
 </div>
 
 ---
@@ -324,10 +324,18 @@
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CompileRider&repo=proyecto-destacado-1&theme=radical&hide_border=true&bg_color=0D1117" />
+        <div align="center">
+          <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white">
+          <br>
+          <sub><em>Proyecto increíble en desarrollo</em></sub>
+        </div>
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CompileRider&repo=proyecto-destacado-2&theme=radical&hide_border=true&bg_color=0D1117" />
+        <div align="center">
+          <img src="https://img.shields.io/badge/✨_En_Proceso-4ECDC4?style=for-the-badge&logo=github&logoColor=white">
+          <br>
+          <sub><em>Otra gran idea tomando forma</em></sub>
+        </div>
       </td>
     </tr>
   </table>
