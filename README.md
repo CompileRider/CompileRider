@@ -96,8 +96,6 @@
 ### 🎮 **Próximos Proyectos**
 - [ ] 🕹️ **Juego de consola en C++** (Snake o Tetris)
 - [ ] 📚 **Sistema de gestión de biblioteca**
-- [ ] 🤖 **Bot de Discord simple**
-- [ ] 🌐 **Mi primera página web**
 
 ---
 
@@ -181,7 +179,6 @@
 ### 🎮 **Retos Específicos**
 - [ ] [Completar 100 retos en LeetCode](https://leetcode.com/problemset/all/)
 - [ ] [Aprender estructuras de datos avanzadas](https://www.geeksforgeeks.org/data-structures/)
-- [ ] [Construir mi primer proyecto web](https://github.com/CompileRider?tab=repositories)
 - [ ] [Hacer mi primera contribución Open Source](https://github.com/topics/good-first-issue)
 - [ ] [Participar en un hackathon](https://devpost.com/hackathons)
 
