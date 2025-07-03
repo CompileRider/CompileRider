@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy **bitforge**
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&width=600&lines=🚀+Estudiante+de+Programación;💻+Aprendiendo+C%2B%2B;🎯+Resolviendo+retos+de+código;🌟+Siempre+curioso+por+aprender;⚡+Cada+día+una+nueva+aventura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF6B6B&width=600&lines=🚀+Estudiante+de+Programación;💻+Aprendiendo+C%2B%2B;🎯+Resolviendo+retos+de+código;🌟+Siempre+curioso+por+aprender;⚡+Cada+día+una+nueva+aventura" alt="Typing SVG" />
 </div>
 
 <div align="center">
