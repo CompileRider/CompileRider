@@ -36,6 +36,182 @@
 
 ---
 
+## 🌟 **Proyectos Destacados**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
+  
+  <h3>🔥 Mis Repositorios más Cool</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/CompileRider/weekly-challenges">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CompileRider&repo=weekly-challenges&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Status-🔥%20Active-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B">
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/CompileRider/cpp-learning">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=CompileRider&repo=cpp-learning&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Status-📚%20Learning-blue?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=4ECDC4">
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Próximamente-🎮%20Snake%20Game-orange?style=for-the-badge&logo=gamemaker&logoColor=white&labelColor=96CEB4">
+    <img src="https://img.shields.io/badge/Próximamente-📚%20Library%20System-purple?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=FF6B6B">
+  </div>
+</div>
+
+---
+
+## 📊 **Progreso de Aprendizaje Visual**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150">
+  
+  <h3>🎯 Mi Nivel Actual</h3>
+  
+  <table>
+    <tr>
+      <td align="left" width="200"><b>🔵 C++ Fundamentos</b></td>
+      <td align="left" width="300">
+        <img src="https://progress-bar.dev/75/?scale=100&title=75%&width=250&color=FF6B6B&suffix=%">
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>🟢 Git/GitHub</b></td>
+      <td align="left">
+        <img src="https://progress-bar.dev/90/?scale=100&title=90%&width=250&color=4ECDC4&suffix=%">
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>🟡 Estructuras de Datos</b></td>
+      <td align="left">
+        <img src="https://progress-bar.dev/45/?scale=100&title=45%&width=250&color=45B7D1&suffix=%">
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>🟠 Algoritmos</b></td>
+      <td align="left">
+        <img src="https://progress-bar.dev/35/?scale=100&title=35%&width=250&color=96CEB4&suffix=%">
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>🔴 Resolución de Problemas</b></td>
+      <td align="left">
+        <img src="https://progress-bar.dev/60/?scale=100&title=60%&width=250&color=FFD93D&suffix=%">
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Nivel%20General-⭐%20Principiante%20Avanzado-success?style=for-the-badge&logo=levelsdotfyi&logoColor=white&labelColor=FF6B6B">
+  </div>
+</div>
+
+---
+
+## 🏆 **Perfiles de Práctica**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
+  
+  <h3>🎮 Donde Practico mis Skills</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <a href="https://leetcode.com/CompileRider/" target="_blank">
+          <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116">
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Resueltos-12%20problemas-brightgreen?style=flat-square&logo=checkmarx&logoColor=white">
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.hackerrank.com/CompileRider" target="_blank">
+          <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866">
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Ranking-⭐%20Bronze-cd7f32?style=flat-square&logo=hackerrank&logoColor=white">
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.codewars.com/users/CompileRider" target="_blank">
+          <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=B1361E">
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Kyu-8%20kyu-yellow?style=flat-square&logo=codewars&logoColor=white">
+      </td>
+      <td align="center" width="25%">
+        <a href="https://www.beecrowd.com.br/judge/en/profile/CompileRider" target="_blank">
+          <img src="https://img.shields.io/badge/-Beecrowd-1E90FF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=1E90FF">
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Resueltos-8%20problemas-blue?style=flat-square&logo=dev.to&logoColor=white">
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Meta%202025-🎯%20100%20Problemas%20Resueltos-red?style=for-the-badge&logo=target&logoColor=white&labelColor=FF6B6B">
+  </div>
+</div>
+
+---
+
+## 📈 **Actividad Reciente**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150">
+  
+  <h3>🔥 Mis Últimos Commits</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CompileRider&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true&custom_title=Actividad%20de%20los%20últimos%20meses" />
+      </td>
+    </tr>
+  </table>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Último%20Commit-🚀%20Hace%202%20días-brightgreen?style=for-the-badge&logo=git&logoColor=white&labelColor=4ECDC4">
+    <img src="https://img.shields.io/badge/Streak%20Actual-🔥%207%20días-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B">
+  </div>
+  
+  <h4>📅 Actividades Recientes</h4>
+  
+  <table>
+    <tr>
+      <td align="left">🎯</td>
+      <td align="left"><b>Resolvió Weekly Challenge #03</b></td>
+      <td align="right"><code>hace 1 día</code></td>
+    </tr>
+    <tr>
+      <td align="left">💻</td>
+      <td align="left"><b>Agregó documentación al proyecto C++</b></td>
+      <td align="right"><code>hace 2 días</code></td>
+    </tr>
+    <tr>
+      <td align="left">🔧</td>
+      <td align="left"><b>Mejoró algoritmo de ordenamiento</b></td>
+      <td align="right"><code>hace 3 días</code></td>
+    </tr>
+    <tr>
+      <td align="left">📚</td>
+      <td align="left"><b>Estudió punteros y referencias</b></td>
+      <td align="right"><code>hace 4 días</code></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🛠️ **Mi Stack Tecnológico**
 
 <div align="center">
@@ -68,10 +244,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CompileRider&theme=radical&hide_border=true&background=0D1117&stroke=FF6B6B&ring=45B7D1&fire=4ECDC4&currStreakLabel=FF6B6B" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CompileRider&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true" />
 </div>
 
 ---
