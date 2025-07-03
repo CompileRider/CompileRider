@@ -111,7 +111,7 @@
         </a>
       </td>
       <td align="center" width="150">
-        <a href="https://www.youtube.com/c/MoureDev" target="_blank">
+        <a href="https://www.youtube.com/@mouredev" target="_blank">
           <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px">
           <br><strong>🎥 MoureDev</strong>
         </a>
