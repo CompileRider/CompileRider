@@ -324,7 +324,7 @@
         <div align="center">
           <img src="https://img.shields.io/badge/✨_En_Proceso-4ECDC4?style=for-the-badge&logo=github&logoColor=white">
           <br>
-          <sub><em>Otra gran idea tomando forma</em></sub>
+          <sub><em>Otra gran idea tomando forma si no se me olvida</em></sub>
         </div>
       </td>
     </tr>
