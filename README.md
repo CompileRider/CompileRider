@@ -58,8 +58,8 @@
 
 ### 💻 **Weekly Challenge 2022**
 * 🎯 Resolviendo retos semanales en **C++** → [Ver repositorio de MoureDev](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-* 📈 Mejorando mis habilidades paso a paso → [Mi progreso](https://github.com/CompileRider/weekly-challenges)
-* 🧠 Aprendiendo nuevos conceptos cada semana → [Retos completados](https://github.com/CompileRider/cpp-challenges)
+* 📈 Mejorando mis habilidades paso a paso → [Mi progreso](https://github.com/CompileRider?tab=repositories)
+* 🧠 Aprendiendo nuevos conceptos cada semana → [Repositorios públicos](https://github.com/CompileRider?tab=repositories&q=&type=public)
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=El+código+es+como+el+humor.+Cuando+tienes+que+explicarlo,+es+malo&author=Cory+House" alt="Dev Quote" />
@@ -124,7 +124,7 @@
 
 * [ ] [Completar más retos de programación](https://leetcode.com/problemset/all/)
 * [ ] [Aprender sobre estructuras de datos](https://www.geeksforgeeks.org/data-structures/)
-* [ ] [Construir mi primer proyecto personal](https://github.com/CompileRider/mi-primer-proyecto)
+* [ ] [Construir mi primer proyecto personal](https://github.com/CompileRider?tab=repositories)
 * [ ] [Contribuir a proyectos open source](https://github.com/topics/good-first-issue)
 * [ ] [Seguir mejorando en C++](https://www.learncpp.com/)
 
