@@ -282,16 +282,6 @@
 
 ---
 
-## 🎵 **Música Mientras Programo**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="200" />
-  <br>
-  <sub>🎧 Spotify no disponible públicamente</sub>
-</div>
-
----
-
 ## 📊 **Métricas de Productividad**
 
 <div align="center">
@@ -343,29 +333,6 @@
 
 ---
 
-## 💻 **Configuración de Desarrollo**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🖥️_Setup-MacBook_Pro_M2-000000?style=for-the-badge&logo=apple&logoColor=white">
-        <br><sub>Potencia y eficiencia</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/⌨️_Teclado-Mechanical_60%-4A90E2?style=for-the-badge&logo=keybase&logoColor=white">
-        <br><sub>Experiencia táctil premium</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🎧_Audio-AirPods_Pro-000000?style=for-the-badge&logo=apple&logoColor=white">
-        <br><sub>Concentración total</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## 🌐 **Conecta Conmigo**
 
 <div align="center">
@@ -392,16 +359,6 @@
   </table>
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</div>
-
----
-
-## 📈 **Análisis de Tiempo**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="200" />
-  <br>
-  <sub>⏱️ Wakatime Stats no disponible públicamente</sub>
 </div>
 
 ---
