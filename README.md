@@ -302,10 +302,50 @@
 
 ## 🏆 **Logros y Trofeos**
 
+## 🏆 **Logros y Trofeos**
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CompileRider&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
+<!-- Versión alternativa con diferentes parámetros -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CompileRider&theme=onedark&no-frame=false&no-bg=false&margin-w=15&row=1&column=7" />
+</div>
+
+<!-- Versión con tema personalizado -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CompileRider&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=3&column=3" />
+</div>
+
+<!-- Alternativa con badges estáticos si el servicio falla -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏆_Commits-100+-FF6B6B?style=for-the-badge&logo=github&logoColor=white">
+        <br><sub><em>Commits realizados</em></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/⭐_Repositorios-Activos-4ECDC4?style=for-the-badge&logo=github&logoColor=white">
+        <br><sub><em>Proyectos en desarrollo</em></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔥_Racha-En_Progreso-45B7D1?style=for-the-badge&logo=github&logoColor=white">
+        <br><sub><em>Días consecutivos</em></sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💎_Contribuciones-Constantes-00D4AA?style=for-the-badge&logo=github&logoColor=white">
+        <br><sub><em>Aportes a la comunidad</em></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Versión con animaciones personalizadas -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=20&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&lines=🏆+Logros+Desbloqueados;⭐+Desarrollador+Comprometido;🔥+Contribuidor+Activo;💎+Miembro+de+la+Comunidad" alt="Achievements" />
+</div>
 ---
 
 ## 🌟 **Proyectos Destacados**
