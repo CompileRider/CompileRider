@@ -1,11 +1,11 @@
 # 🚀 ¡Hola! Soy **bitforge**
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=bitforge&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=bitforge&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&pause=1000&color=FF6B6B&width=700&lines=💻+Desarrollador+en+Crecimiento;🎯+Resolviendo+Problemas+con+Código;🌟+Aprendiendo+Cada+Día;⚡+Construyendo+el+Futuro;🔥+Innovando+con+Pasión;🚀+Creando+Experiencias+Únicas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&duration=4000&pause=1000&color=FF6B6B&width=700&lines=💻+Desarrollador+en+Crecimiento;🎯+Resolviendo+Problemas+con+Código;🌟+Aprendiendo+Cada+Día;⚡+Construyendo+el+Futuro;🔥+Innovando+con+Pasión;🚀+Creando+Experiencias+Únicas" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -84,28 +84,28 @@
     <tr>
       <td align="center" width="25%">
         <a href="https://leetcode.com/CompileRider/" target="_blank">
-          <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116">
+          <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116&animation=pulse">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Algoritmos-🧠_Activo-brightgreen?style=flat-square&logo=checkmarx&logoColor=white">
       </td>
       <td align="center" width="25%">
         <a href="https://www.hackerrank.com/CompileRider" target="_blank">
-          <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866">
+          <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866&animation=pulse">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Práctica-💻_Constante-green?style=flat-square&logo=hackerrank&logoColor=white">
       </td>
       <td align="center" width="25%">
         <a href="https://www.codewars.com/users/CompileRider" target="_blank">
-          <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=B1361E">
+          <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=B1361E&animation=pulse">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Desafíos-⚔️_Activo-red?style=flat-square&logo=codewars&logoColor=white">
       </td>
       <td align="center" width="25%">
         <a href="https://www.beecrowd.com.br/judge/en/profile/CompileRider" target="_blank">
-          <img src="https://img.shields.io/badge/-Beecrowd-1E90FF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=1E90FF">
+          <img src="https://img.shields.io/badge/-Beecrowd-1E90FF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=1E90FF&animation=pulse">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Problemas-🎯_Resolviendo-blue?style=flat-square&logo=dev.to&logoColor=white">
@@ -126,7 +126,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CompileRider&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true&custom_title=Actividad%20de%20Programación" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CompileRider&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true&custom_title=Actividad%20de%20Programación&animation=grow" />
       </td>
     </tr>
   </table>
@@ -178,8 +178,8 @@
 ## 📊 **Estadísticas de GitHub**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompileRider&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRider&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompileRider&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&icon_color=45B7D1&animation=grow" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRider&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=4ECDC4&langs_count=8&animation=grow" />
 </div>
 
 <div align="center">
@@ -265,7 +265,7 @@
 ## 💡 **Inspiración Diaria**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&pause=3000&color=FF6B6B&center=true&vCenter=true&width=800&height=60&lines=💭+%22El+código+es+poesía+que+las+máquinas+entienden%22;💭+%22Cada+bug+es+una+oportunidad+de+aprender+algo+nuevo%22;💭+%22La+programación+es+el+arte+de+hacer+lo+complejo+simple%22;💭+%22No+temas+al+error%2C+teme+a+no+intentarlo%22;💭+%22El+mejor+código+es+el+que+no+necesita+explicación%22;💭+%22Programa+como+si+fueras+a+mantener+el+código+para+siempre%22;💭+%22La+creatividad+es+la+diferencia+entre+copiar+y+crear%22;💭+%22Cada+línea+de+código+es+un+paso+hacia+la+maestría%22;💭+%22Los+errores+son+las+escaleras+hacia+el+éxito%22;💭+%22Programa+con+pasión%2C+debuggea+con+paciencia%22" alt="Daily Inspiration" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=5000&pause=3000&color=FF6B6B&center=true&vCenter=true&width=800&height=60&lines=💭+%22El+código+es+poesía+que+las+máquinas+entienden%22;💭+%22Cada+bug+es+una+oportunidad+de+aprender+algo+nuevo%22;💭+%22La+programación+es+el+arte+de+hacer+lo+complejo+simple%22;💭+%22No+temas+al+error%2C+teme+a+no+intentarlo%22;💭+%22El+mejor+código+es+el+que+no+necesita+explicación%22;💭+%22Programa+como+si+fueras+a+mantener+el+código+para+siempre%22;💭+%22La+creatividad+es+la+diferencia+entre+copiar+y+crear%22;💭+%22Cada+línea+de+código+es+un+paso+hacia+la+maestría%22;💭+%22Los+errores+son+las+escaleras+hacia+el+éxito%22;💭+%22Programa+con+pasión%2C+debuggea+con+paciencia%22" alt="Daily Inspiration" />
 </div>
 
 <div align="center">
@@ -373,7 +373,7 @@
   <h3>🌟 "El código es la herramienta, la creatividad es el poder" 🌟</h3>
   <p><em>Cada proyecto es una oportunidad de crear algo extraordinario</em></p>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=16&pause=2000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🚀+Construyendo+el+futuro+una+línea+de+código+a+la+vez;💡+Transformando+ideas+en+realidades+digitales;🎯+Siempre+buscando+la+excelencia+en+cada+proyecto;🌟+Apasionado+por+la+tecnología+y+la+innovación" alt="Footer Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=16&duration=4000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🚀+Construyendo+el+futuro+una+línea+de+código+a+la+vez;💡+Transformando+ideas+en+realidades+digitales;🎯+Siempre+buscando+la+excelencia+en+cada+proyecto;🌟+Apasionado+por+la+tecnología+y+la+innovación" alt="Footer Typing" />
 </div>
 
 <div align="center">
@@ -383,7 +383,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=200&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=200&section=footer&animation=fadeIn"/>
 </div>
 
 ---
