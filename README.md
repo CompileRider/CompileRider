@@ -150,6 +150,8 @@
         <img src="https://skillicons.dev/icons?i=cpp,py,js,c&theme=dark&perline=4" />
         <br>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
       </td>
       <td align="center" width="33%">
         <h4>🚀 Herramientas</h4>
@@ -161,7 +163,7 @@
       </td>
       <td align="center" width="33%">
         <h4>🌐 Tecnologías</h4>
-        <img src="https://skillicons.dev/icons?i=html,css,&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=html,css,nodejs,docker&theme=dark&perline=4" />
         <br>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
