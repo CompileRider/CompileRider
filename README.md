@@ -328,7 +328,7 @@
           <img src="https://img.shields.io/badge/✨_Terminado-4ECDC4?style=for-the-badge&logo=github&logoColor=White">
           </a>
             <br>
-          <sub><em>DESARROLLO</em></sub>
+          <sub><em>Activo</em></sub>
         </div>
       </td>
     </tr>
