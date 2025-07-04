@@ -83,28 +83,28 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <a href="https://leetcode.com" target="_blank">
+        <a href="https://leetcode.com/CompileRider/" target="_blank">
           <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Algoritmos-🧠_Activo-brightgreen?style=flat-square&logo=checkmarx&logoColor=white">
       </td>
       <td align="center" width="25%">
-        <a href="https://www.hackerrank.com" target="_blank">
+        <a href="https://www.hackerrank.com/CompileRider" target="_blank">
           <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Práctica-💻_Constante-green?style=flat-square&logo=hackerrank&logoColor=white">
       </td>
       <td align="center" width="25%">
-        <a href="https://www.codewars.com" target="_blank">
+        <a href="https://www.codewars.com/users/CompileRider" target="_blank">
           <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=B1361E">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Desafíos-⚔️_Activo-red?style=flat-square&logo=codewars&logoColor=white">
       </td>
       <td align="center" width="25%">
-        <a href="https://www.beecrowd.com.br" target="_blank">
+        <a href="https://www.beecrowd.com.br/judge/en/profile/CompileRider" target="_blank">
           <img src="https://img.shields.io/badge/-Beecrowd-1E90FF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=1E90FF">
         </a>
         <br>
@@ -315,19 +315,15 @@
     <tr>
       <td width="50%">
         <div align="center">
-          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&amp;list=RDxvFZjo5PgG0&amp;start_radio=1" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br />
-          <sub><em>Espero que algún día suceda</em></sub>
+          <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white">
+          <br>
+          <sub><em>Espero que algun dia suceda</em></sub>
         </div>
       </td>
       <td width="50%">
         <div align="center">
-          <a href="#">
-            <img src="https://img.shields.io/badge/✨_En_Proceso-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br />
+          <img src="https://img.shields.io/badge/✨_En_Proceso-4ECDC4?style=for-the-badge&logo=github&logoColor=white">
+          <br>
           <sub><em>Otra gran idea tomando forma si no se me olvida</em></sub>
         </div>
       </td>
@@ -337,31 +333,33 @@
 
 ---
 
-## 🌟 **Proyectos Destacados**
+## 🌐 **Conecta Conmigo**
 
 <div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
   <table>
     <tr>
-      <td width="50%">
-        <div align="center">
-          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">
-            <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-          <br />
-          <sub><em>Espero que algún día suceda</em></sub>
-        </div>
+      <td align="center">
+        <a href="https://github.com/CompileRider" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+        </a>
       </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://img.shields.io/badge/✨_En_Proceso-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
-          <br />
-          <sub><em>Otra gran idea tomando forma si no se me olvida</em></sub>
-        </div>
+      <td align="center">
+        <a href="https://discord.com/users/gear50214" target="_blank">
+          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:esmilviciosomercado@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
       </td>
     </tr>
   </table>
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
-
 
 ---
 
