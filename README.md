@@ -315,19 +315,19 @@
     <tr>
       <td width="50%">
         <div align="center">
-          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">
-            <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white">
+          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&amp;list=RDxvFZjo5PgG0&amp;start_radio=1" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-          <br>
-          <sub><em>Espero que algun día suceda</em></sub>
+          <br />
+          <sub><em>Espero que algún día suceda</em></sub>
         </div>
       </td>
       <td width="50%">
         <div align="center">
-          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">
+          <a href="#">
+            <img src="https://img.shields.io/badge/✨_En_Proceso-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
           </a>
-            <img src="https://img.shields.io/badge/✨_En_Proceso-4ECDC4?style=for-the-badge&logo=github&logoColor=white">
-          <br>
+          <br />
           <sub><em>Otra gran idea tomando forma si no se me olvida</em></sub>
         </div>
       </td>
