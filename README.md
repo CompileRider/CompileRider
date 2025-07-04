@@ -319,7 +319,7 @@
           <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white">
           </a>
             <br>
-          <sub><em>Espero que algun dia suceda</em></sub>
+          <sub><em>PROXIMAMENTE</em></sub>
         </div>
       </td>
       <td width="50%">
@@ -328,7 +328,7 @@
           <img src="https://img.shields.io/badge/✨_Terminado-4ECDC4?style=for-the-badge&logo=github&logoColor=White">
           </a>
             <br>
-          <sub><em>Desarrollo</em></sub>
+          <sub><em>Activo</em></sub>
         </div>
       </td>
     </tr>
