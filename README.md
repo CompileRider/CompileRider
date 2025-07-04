@@ -319,7 +319,7 @@
          <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white">
          </a>
            <br>
-         <sub><em>PROXIMAMENTE</em></sub>
+         <img src="https://img.shields.io/badge/PROXIMAMENTE-4ECDC4?style=flat&logoColor=white">
        </div>
      </td>
      <td width="50%">
