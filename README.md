@@ -337,33 +337,31 @@
 
 ---
 
-## 🌐 **Conecta Conmigo**
+## 🌟 **Proyectos Destacados**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  
   <table>
     <tr>
-      <td align="center">
-        <a href="https://github.com/CompileRider" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-        </a>
+      <td width="50%">
+        <div align="center">
+          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">
+            <img src="https://img.shields.io/badge/🚀_Próximamente-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+          <br />
+          <sub><em>Espero que algún día suceda</em></sub>
+        </div>
       </td>
-      <td align="center">
-        <a href="https://discord.com/users/gear50214" target="_blank">
-          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:esmilviciosomercado@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-        </a>
+      <td width="50%">
+        <div align="center">
+          <img src="https://img.shields.io/badge/✨_En_Proceso-4ECDC4?style=for-the-badge&logo=github&logoColor=white" />
+          <br />
+          <sub><em>Otra gran idea tomando forma si no se me olvida</em></sub>
+        </div>
       </td>
     </tr>
   </table>
-  
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 </div>
+
 
 ---
 
