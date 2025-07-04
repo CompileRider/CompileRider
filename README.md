@@ -325,7 +325,7 @@
       <td width="50%">
         <div align="center">
           <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">
-          <img src="https://img.shields.io/badge/✨_En_Proceso-4ECDC4?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/✨_Terminado-4ECDC4?style=for-the-badge&logo=github&logoColor=green">
           </a>
             <br>
           <sub><em>Otra gran idea tomando forma</em></sub>
