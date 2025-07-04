@@ -155,10 +155,10 @@
       </td>
       <td align="center" width="33%">
         <h4>🚀 Herramientas</h4>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark&perline=4" />
+        <img src="https://skillicons.dev/icons?i=git,github,clion,linux&theme=dark&perline=4" />
         <br>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+        <img src="https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
       </td>
       <td align="center" width="33%">
