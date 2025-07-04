@@ -83,28 +83,28 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <a href="https://leetcode.com/CompileRider/" target="_blank">
+        <a href="https://leetcode.com" target="_blank">
           <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Algoritmos-🧠_Activo-brightgreen?style=flat-square&logo=checkmarx&logoColor=white">
       </td>
       <td align="center" width="25%">
-        <a href="https://www.hackerrank.com/CompileRider" target="_blank">
+        <a href="https://www.hackerrank.com" target="_blank">
           <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Práctica-💻_Constante-green?style=flat-square&logo=hackerrank&logoColor=white">
       </td>
       <td align="center" width="25%">
-        <a href="https://www.codewars.com/users/CompileRider" target="_blank">
+        <a href="https://www.codewars.com" target="_blank">
           <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=B1361E">
         </a>
         <br>
         <img src="https://img.shields.io/badge/Desafíos-⚔️_Activo-red?style=flat-square&logo=codewars&logoColor=white">
       </td>
       <td align="center" width="25%">
-        <a href="https://www.beecrowd.com.br/judge/en/profile/CompileRider" target="_blank">
+        <a href="https://www.beecrowd.com.br" target="_blank">
           <img src="https://img.shields.io/badge/-Beecrowd-1E90FF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=1E90FF">
         </a>
         <br>
