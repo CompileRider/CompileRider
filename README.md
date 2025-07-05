@@ -325,7 +325,7 @@
      <td width="50%">
        <div align="center">
          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">
-         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcharafta.itch.io%2F2048&psig=AOvVaw0Iz47pL9UoHbqKSk5KGv5-&ust=1751760093693000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDgyoO1pI4DFQAAAAAdAAAAABAE">
+         <img src="assets/oArgKd.png" width="80" height="80">
          </a>
            <br>
          <img src="https://img.shields.io/badge/TERMINADO-FF6B6B?style=flat&logoColor=white">
