@@ -324,7 +324,7 @@
      </td>
      <td width="50%">
        <div align="center">
-         <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">
+         <a href="https://github.com/CompileRider/2048">
          <img src="assets/oArgKd.png" width="60" height="60">
          </a>
            <br>
