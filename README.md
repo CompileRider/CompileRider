@@ -325,7 +325,7 @@
      <td width="50%">
        <div align="center">
          <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1">
-         <img src="assets/oArgKd.png" width="80" height="80">
+         <img src="assets/oArgKd.png" width="50" height="50">
          </a>
            <br>
          <img src="https://img.shields.io/badge/TERMINADO-FF6B6B?style=flat&logoColor=white">
