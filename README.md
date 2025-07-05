@@ -328,7 +328,7 @@
          <img src="assets/oArgKd.png" width="60" height="60">
          </a>
            <br>
-         <img src="https://img.shields.io/badge/TERMINADO-FF6B6B?style=flat&logoColor=white">
+         <img src="https://img.shields.io/badge/En Desarrllo-FF6B6B?style=flat&logoColor=white">
        </div>
      </td>
    </tr>
