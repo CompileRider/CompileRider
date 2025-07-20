@@ -36,7 +36,7 @@ Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejo
 
 ---
 
-## 📈 **Actividad en GitHub**
+## **Actividad en GitHub**
 
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150">
@@ -67,27 +67,11 @@ Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejo
 
 ---
 
-## 🎯 **Áreas de Interés**
+## Áreas de Especialización
 
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
 </div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80px">
-        <br>
-        <img src="https://img.shields.io/badge/🧠_Algoritmos-FF6B6B?style=for-the-badge&logo=brain&logoColor=white">
-        <br><sub><em>Estructuras de datos y optimización</em></sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px">
-        <br>
-        <img src="https://img.shields.io/badge/🎮_Desarrollo_de_Juegos-4ECDC4?style=for-the-badge&logo=unity&logoColor=white">
-        <br><sub><em>Creación de experiencias interactivas</em></sub>
-      </td>
       <td align="center" width="25%">
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px">
         <br>
@@ -107,7 +91,7 @@ Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejo
 ---
 
 
-## 🔥 **Contribuciones**
+## **Contribuciones**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
