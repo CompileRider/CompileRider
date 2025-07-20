@@ -32,3 +32,63 @@ Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejo
 </td>
 </tr>
 </table>
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 Nombre del Proyecto 1</h3>
+<div align="center">
+<a href="https://github.com/tu-usuario/proyecto1" target="_blank"><img src="https://img.shields.io/badge/Código-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tu-proyecto1-demo.com" target="_blank"><img src="https://img.shields.io/badge/Demo-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+</div>
+<p align="center">
+<br>
+Breve descripción de tu proyecto. Explica qué hace y qué tecnologías utilizaste.
+<br><br>
+<strong>Tech Stack:</strong> React, JavaScript, CSS, Node.js
+</p>
+</td>
+<td width="50%">
+<h3 align="center">💡 Nombre del Proyecto 2</h3>
+<div align="center">
+<a href="https://github.com/tu-usuario/proyecto2" target="_blank"><img src="https://img.shields.io/badge/Código-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tu-proyecto2-demo.com" target="_blank"><img src="https://img.shields.io/badge/Demo-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+</div>
+<p align="center">
+<br>
+Descripción del segundo proyecto y sus características principales.
+<br><br>
+<strong>Tech Stack:</strong> Python, Django, PostgreSQL, HTML/CSS
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🎨 Nombre del Proyecto 3</h3>
+<div align="center">
+<a href="https://github.com/tu-usuario/proyecto3" target="_blank"><img src="https://img.shields.io/badge/Código-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tu-proyecto3-demo.com" target="_blank"><img src="https://img.shields.io/badge/Demo-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+</div>
+<p align="center">
+<br>
+Explicación de tu tercer proyecto más importante.
+<br><br>
+<strong>Tech Stack:</strong> Vue.js, Firebase, Tailwind CSS
+</p>
+</td>
+<td width="50%">
+<h3 align="center">⚡ Nombre del Proyecto 4</h3>
+<div align="center">
+<a href="https://github.com/tu-usuario/proyecto4" target="_blank"><img src="https://img.shields.io/badge/Código-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://tu-proyecto4-demo.com" target="_blank"><img src="https://img.shields.io/badge/Demo-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+</div>
+<p align="center">
+<br>
+Descripción de tu cuarto proyecto destacado.
+<br><br>
+<strong>Tech Stack:</strong> Next.js, TypeScript, MongoDB
+</p>
+</td>
+</tr>
+</table>
