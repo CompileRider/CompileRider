@@ -69,31 +69,26 @@ Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejo
 
 ## Áreas de Especialización
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300">
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80px">
-        <br><br>
-        <img src="https://img.shields.io/badge/🌐_Desarrollo_Web-45B7D1?style=for-the-badge&logo=html5&logoColor=white">
+        <h3>🌐</h3>
+        <img src="https://img.shields.io/badge/Desarrollo_Web-45B7D1?style=for-the-badge&logo=html5&logoColor=white">
         <br><br><sub><em>Aplicaciones modernas y responsive</em></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px">
-        <br><br>
-        <img src="https://img.shields.io/badge/🤖_Open_Source-00D4AA?style=for-the-badge&logo=opensource&logoColor=white">
+        <h3>🤖</h3>
+        <img src="https://img.shields.io/badge/Open_Source-00D4AA?style=for-the-badge&logo=opensource&logoColor=white">
         <br><br><sub><em>Contribuciones a la comunidad</em></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px">
-        <br><br>
-        <img src="https://img.shields.io/badge/🔧_Backend-FF6B6B?style=for-the-badge&logo=server&logoColor=white">
+        <h3>🔧</h3>
+        <img src="https://img.shields.io/badge/Backend-FF6B6B?style=for-the-badge&logo=server&logoColor=white">
         <br><br><sub><em>APIs robustas y escalables</em></sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80px">
-        <br><br>
-        <img src="https://img.shields.io/badge/⚙️_Automatización-4ECDC4?style=for-the-badge&logo=automation&logoColor=white">
+        <h3>⚙️</h3>
+        <img src="https://img.shields.io/badge/Automatización-4ECDC4?style=for-the-badge&logo=automation&logoColor=white">
         <br><br><sub><em>Scripts y herramientas eficientes</em></sub>
       </td>
     </tr>
