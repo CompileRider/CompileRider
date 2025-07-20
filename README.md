@@ -24,13 +24,6 @@ Me dedico a crear soluciones funcionales mediante el diseño estructurado del c�
 
 Trabajo de forma independiente, desarrollando proyectos personales que me permiten profundizar en áreas como la programación estructurada, orientada a objetos y la automatización de tareas.
 Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejora continua a través de la práctica constante.
-
-🛠️ Mis Proyectos
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-
 </td>
 <td>
 
