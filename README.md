@@ -33,21 +33,3 @@ Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejo
 </td>
 </tr>
 </table>
-
----
-
-## **Actividad en GitHub**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150">
-  
-  <h3>🔥 Contribuciones Recientes</h3>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=CompileRider&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=45B7D1&area=true&hide_border=true&custom_title=Actividad%20de%20Programación" />
-      </td>
-    </tr>
-  </table>
-</div>
