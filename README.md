@@ -106,75 +106,9 @@ Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejo
 
 ---
 
-## 📚 **Recursos Favoritos**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80px">
-        <br>
-        <img src="https://img.shields.io/badge/📖_Documentación-667eea?style=for-the-badge&logo=readthedocs&logoColor=white">
-        <br><sub><em>Siempre la primera fuente</em></sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80px">
-        <br>
-        <img src="https://img.shields.io/badge/🎥_Tutoriales-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white">
-        <br><sub><em>Aprendizaje visual</em></sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80px">
-        <br>
-        <img src="https://img.shields.io/badge/❓_Comunidades-764ba2?style=for-the-badge&logo=discord&logoColor=white">
-        <br><sub><em>Resolver dudas juntos</em></sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px">
-        <br>
-        <img src="https://img.shields.io/badge/👥_Proyectos-4ECDC4?style=for-the-badge&logo=github&logoColor=white">
-        <br><sub><em>Aprender haciendo</em></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 💡 **Inspiración Diaria**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&pause=3000&color=FF6B6B&center=true&vCenter=true&width=800&height=60&lines=💭+%22El+código+es+poesía+que+las+máquinas+entienden%22;💭+%22Cada+bug+es+una+oportunidad+de+aprender+algo+nuevo%22;💭+%22La+programación+es+el+arte+de+hacer+lo+complejo+simple%22;💭+%22No+temas+al+error%2C+teme+a+no+intentarlo%22;💭+%22El+mejor+código+es+el+que+no+necesita+explicación%22;💭+%22Programa+como+si+fueras+a+mantener+el+código+para+siempre%22;💭+%22La+creatividad+es+la+diferencia+entre+copiar+y+crear%22;💭+%22Cada+línea+de+código+es+un+paso+hacia+la+maestría%22;💭+%22Los+errores+son+las+escaleras+hacia+el+éxito%22;💭+%22Programa+con+pasión%2C+debuggea+con+paciencia%22" alt="Daily Inspiration" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=La%20programación%20es%20el%20arte%20de%20resolver%20problemas%20de%20manera%20elegante&author=bitforge" alt="Programming Quote" />
-</div>
-
----
 
 ## 🔥 **Contribuciones**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
----
-
-## 📊 **Métricas de Productividad**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CompileRider&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CompileRider&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CompileRider&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CompileRider&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CompileRider&theme=radical&utcOffset=8" />
-</div>
-
----
