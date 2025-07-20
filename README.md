@@ -17,13 +17,13 @@
 <table>
 <tr>
 <td>
+Hola, mi nombre es Esmil.
 
-**🌟 Desarrollador Apasionado**
-- 💡 Creando soluciones innovadoras con código
-- 🚀 Explorando nuevas tecnologías constantemente
-- 🎯 Enfocado en la resolución de problemas
-- 🤝 Colaborando con la comunidad de desarrolladores
-- ⚡ **Transformando ideas en realidad digital**
+Soy desarrollador con enfoque en programación web y desarrollo de software.
+Me dedico a crear soluciones funcionales mediante el diseño estructurado del código y la aplicación de principios de lógica y eficiencia.
+
+Trabajo de forma independiente, desarrollando proyectos personales que me permiten profundizar en áreas como la programación estructurada, orientada a objetos y la automatización de tareas.
+Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejora continua a través de la práctica constante.
 
 </td>
 <td>
@@ -33,86 +33,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 🌟 **Mi Filosofía de Desarrollo**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
-  
-  <h3>🔥 Principios que me Guían</h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎯_Código_Limpio-667eea?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=667eea">
-        <br>
-        <sub><em>Escribir código que otros puedan entender y mantener</em></sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🚀_Mejora_Continua-f093fb?style=for-the-badge&logo=rocket&logoColor=white&labelColor=f093fb">
-        <br>
-        <sub><em>Aprender algo nuevo cada día y aplicarlo</em></sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/💡_Innovación-4ecdc4?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=4ecdc4">
-        <br>
-        <sub><em>Buscar soluciones creativas a problemas complejos</em></sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🤝_Colaboración-ffeaa7?style=for-the-badge&logo=handshake&logoColor=white&labelColor=ffeaa7">
-        <br>
-        <sub><em>Compartir conocimiento y aprender de otros</em></sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🏆 **Plataformas de Práctica**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150">
-  
-  <h3>🎮 Donde Desarrollo mis Habilidades</h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <a href="https://leetcode.com" target="_blank">
-          <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&labelColor=FFA116">
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Algoritmos-🧠_Activo-brightgreen?style=flat-square&logo=checkmarx&logoColor=white">
-      </td>
-      <td align="center" width="25%">
-        <a href="https://www.hackerrank.com" target="_blank">
-          <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&labelColor=2EC866">
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Práctica-💻_Constante-green?style=flat-square&logo=hackerrank&logoColor=white">
-      </td>
-      <td align="center" width="25%">
-        <a href="https://www.codewars.com" target="_blank">
-          <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=B1361E">
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Desafíos-⚔️_Activo-red?style=flat-square&logo=codewars&logoColor=white">
-      </td>
-      <td align="center" width="25%">
-        <a href="https://www.beecrowd.com.br" target="_blank">
-          <img src="https://img.shields.io/badge/-Beecrowd-1E90FF?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=1E90FF">
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Problemas-🎯_Resolviendo-blue?style=flat-square&logo=dev.to&logoColor=white">
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
