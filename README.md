@@ -35,7 +35,7 @@ Mi enfoque se basa en la comprensión técnica, el análisis detallado y la mejo
 
 
 <div align="center">
-  <a href="https://github.com/tu-usuario?tab=repositories" target="_blank">
+  <a href="https://github.com/CompileRider?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Todos_los_Proyectos-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Ver repositorios"/>
   </a>
 </div>
