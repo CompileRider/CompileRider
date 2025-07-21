@@ -5,10 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=28&pause=1000&color=FF6B6B&width=700&lines=💻+Desarrollador+en+Crecimiento;🎯+Resolviendo+Problemas+con+Código;🌟+Aprendiendo+Cada+Día;⚡+Construyendo+el+Futuro;🔥+Innovando+con+Pasión;🚀+Creando+Experiencias+Únicas" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
