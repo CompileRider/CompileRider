@@ -13,7 +13,6 @@
 <table>
 <tr>
 <td>
-
 Hola, mi nombre es Esmil.
 
 Soy desarrollador con un fuerte enfoque en programación orientada a objetos y desarrollo de software utilizando Kotlin.
