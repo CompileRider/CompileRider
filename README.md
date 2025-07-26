@@ -17,6 +17,8 @@ Hola, mi nombre es Esmil.
 
 Soy desarrollador con un fuerte enfoque en programación orientada a objetos y desarrollo de software utilizando Kotlin.
 Me especializo en diseñar soluciones concisas y expresivas, aplicando principios de buen diseño y aprovechando las capacidades modernas del lenguaje para escribir código limpio y mantenible.
+
+Trabajo de forma independiente en proyectos personales que me permiten profundizar en conceptos avanzados de Kotlin 
 </td>
 <td>
 
