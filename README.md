@@ -13,12 +13,11 @@
 <table>
 <tr>
 <td>
+
 Hola, mi nombre es Esmil.
 
-Soy desarrollador con un fuerte enfoque en programación orientada a objetos y desarrollo de software utilizando Java.
-Me especializo en diseñar soluciones robustas y eficientes, aplicando principios de buen diseño y patrones de programación para crear código limpio y mantenible.
-
-Trabajo de forma independiente en proyectos personales que me permiten profundizar en conceptos avanzados de Java, como manejo de excepciones, colecciones, concurrencia y programación modular.
+Soy desarrollador con un fuerte enfoque en programación orientada a objetos y desarrollo de software utilizando Kotlin.
+Me especializo en diseñar soluciones concisas y expresivas, aplicando principios de buen diseño y aprovechando las capacidades modernas del lenguaje para escribir código limpio y mantenible.
 </td>
 <td>
 
