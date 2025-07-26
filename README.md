@@ -1,11 +1,12 @@
-# 🚀 ¡Hola! Soy bitforge
+# 🚀 ¡Hola! Soy **bitforge**
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=bitforge&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-## 🎯 Sobre mí
+
+## 🎯 **Sobre mí**
 <table>
 <tr>
 <td>
@@ -17,6 +18,7 @@ Soy un desarrollador C# con experiencia en la construcción de software de alta 
 </td>
 </tr>
 </table>
+
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
