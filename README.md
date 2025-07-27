@@ -11,7 +11,8 @@
 <tr>
 <td>
 Hola, mi nombre es Esmil.
-Soy un desarrollador C# con experiencia en la construcción de software de alta calidad. Me especializo en aplicar principios avanzados de diseño para crear soluciones concisas, expresivas y fáciles de mantener, utilizando plenamente las capacidades modernas del lenguaje. Mi objetivo es desarrollar código que sea no solo funcional, sino también arquitectónicamente sólido y eficiente.
+
+Soy un desarrollador de software con una sólida especialización en Kotlin. Mi experiencia se centra en la construcción de sistemas robustos y de alta calidad. Aplico principios de diseño avanzados para crear soluciones que son inherentemente concisas, expresivas y fáciles de mantener. Mi objetivo principal es desarrollar código que no solo cumpla con sus funciones, sino que también demuestre una sólida arquitectura y una eficiencia comprobada.
 </td>
 <td>
 <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -19,7 +20,7 @@ Soy un desarrollador C# con experiencia en la construcción de software de alta 
 </tr>
 </table>
 
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
-![NuGet](https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![JVM](https://img.shields.io/badge/JVM-007396?style=for-the-badge&logo=java&logoColor=white)
