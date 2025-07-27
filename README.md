@@ -23,4 +23,3 @@ Soy un desarrollador de software con una sólida especialización en Kotlin. Mi 
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![JVM](https://img.shields.io/badge/JVM-CC292B?style=for-the-badge&logo=java&logoColor=white)
