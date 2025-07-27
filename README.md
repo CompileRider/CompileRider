@@ -20,7 +20,7 @@ Soy un desarrollador de software con una sólida especialización en Kotlin. Mi 
 </tr>
 </table>
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ IDEA-F05C35?style=for-the-badge&logo=intellij-idea&logoColor=black)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![JVM](https://img.shields.io/badge/JVM-007396?style=for-the-badge&logo=java&logoColor=white)
+![JVM](https://img.shields.io/badge/JVM-CC292B?style=for-the-badge&logo=java&logoColor=white)
