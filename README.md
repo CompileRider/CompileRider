@@ -10,7 +10,7 @@
 <tr>
 <td>
 Hola, mi nombre es Esmil.
-Soy un desarrollador de software con una sólida especialización en C++. Mi experiencia se centra en la construcción de sistemas de alto rendimiento y aplicaciones robustas. Aplico principios de programación moderna y patrones de diseño avanzados para crear soluciones que son eficientes, escalables y fáciles de mantener. Mi objetivo principal es desarrollar código que aproveche al máximo las capacidades de C++, creando soluciones que demuestren una arquitectura sólida y un rendimiento óptimo.
+Soy un desarrollador de software con una sólida especialización en C++. Mi experiencia se centra en la construcción de sistemas robustos y de alta calidad. Aplico principios de diseño avanzados para crear soluciones que son inherentemente concisas, expresivas y fáciles de mantener. Mi objetivo principal es desarrollar código que no solo cumpla con sus funciones, sino que también demuestre una sólida arquitectura y una eficiencia comprobada.
 </td>
 <td>
 <img align="center" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -18,6 +18,6 @@ Soy un desarrollador de software con una sólida especialización en C++. Mi exp
 </tr>
 </table>
 
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
