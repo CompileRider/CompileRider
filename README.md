@@ -28,7 +28,7 @@ Rust developer focused on building fast, reliable systems. I enjoy working on ba
 ## Contact
 
 - 🐙 GitHub: [@CompileRIder](https://github.com/CompileRIder)
-- 💼 LinkedIn: [Esmil](https://linkedin.com/in/yourprofile)
+- 💼 LinkedIn: [Esmil](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
 - 📧 Email: esmilviciosomercado@gmail.com
 
 Open to collaboration on interesting Rust projects and job opportunities.
