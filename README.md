@@ -7,7 +7,7 @@ Rust developer focused on building fast, reliable systems. I enjoy working on ba
 - 🦀 Working primarily with Rust and C++
 - 🔧 Building backend services and system tools
 - 🌱 Currently exploring async Rust with Tokio
-- 💬 Ask me about Rust, C++, or systems programming
+- 💬 Ask me about Rust, or systems programming
 
 ## Tech Stack
 
