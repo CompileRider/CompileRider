@@ -158,7 +158,7 @@ loop {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge&logo=github)](https://github.com/CompileRIder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
 [![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
