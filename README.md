@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Esmil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Fullstack+Rust+Developer+%F0%9F%A6%80;Learning+Every+Day+%F0%9F%9A%80;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Rust+Developer+%F0%9F%A6%80;Learning+Every+Day+%F0%9F%9A%80;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -37,9 +37,9 @@ impl Developer {
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🦀 **My languages:** Started with C++, now obsessed with Rust
-- 🌱 **Learning:** Fullstack development with Rust
+- 🌱 **Learning:** development with Rust
 - 🔧 **Building:** Personal projects in Rust
-- 💬 **Ask me about:** Rust, backend, or why Rust is better than C++ 😄
+- 💬 **Ask me about:** Rust, or why Rust is better than C++ 😄
 - ⚡ **Fun fact:** C++ taught me pointers, Rust taught me safety 🦀
 - ☕ **Current status:** Debugging with coffee
 
@@ -98,14 +98,14 @@ impl Developer {
 <td width="50%">
 
 ### 💻 Current Projects
-- Fullstack apps with Rust
+- Developing apps with Rust
 - Fighting the borrow checker (and winning)
 
 </td>
 <td width="50%">
 
 ### 📚 Learning
-- Fullstack Rust
+- Full Rust
 - C++ (just the basics, chill)
 
 </td>
