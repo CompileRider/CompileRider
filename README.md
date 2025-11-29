@@ -82,11 +82,11 @@ impl Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4EC9B0&icon_color=4EC9B0&text_color=FFFFFF" alt="GitHub Stats"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/CompileRIder)
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CompileRIder&theme=radical&hide_border=true&background=0D1117&stroke=4EC9B0&ring=4EC9B0&fire=FF6B6B&currStreakNum=FFFFFF&currStreakLabel=4EC9B0" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CompileRIder&theme=tokyonight&hide_border=true)](https://github.com/CompileRIder)
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4EC9B0&text_color=FFFFFF&langs_count=6" alt="Top Languages"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/CompileRIder)
 
 </div>
 
@@ -186,7 +186,7 @@ loop {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CompileRIder&theme=react-dark&hide_border=true&bg_color=0D1117&color=4EC9B0&line=4EC9B0&point=FF6B6B)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CompileRIder&bg_color=0d1117&color=4ec9b0&line=4ec9b0&point=ffffff&area=true&hide_border=true)](https://github.com/CompileRIder)
 
 </div>
 
@@ -196,7 +196,7 @@ loop {
 
 ### 💼 Open to collaborate on Rust projects and job opportunities
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Learning%20%26%20Building%20🦀&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+[![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4ec9b0,100:ff6b6b&height=120&section=footer)](https://github.com/CompileRIder)
 
 **"The compiler is not your enemy, it's your strict but fair teacher"** 🦀
 
