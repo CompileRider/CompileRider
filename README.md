@@ -55,20 +55,6 @@ impl Developer {
 ![C++](https://img.shields.io/badge/C++_(Started_Here)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust_(Current)-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### Frontend (Rust)
-![Yew](https://img.shields.io/badge/Yew-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Leptos](https://img.shields.io/badge/Leptos-000000?style=for-the-badge&logo=rust&logoColor=white)
-![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
-
-### Backend (Rust)
-![Actix](https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLx](https://img.shields.io/badge/SQLx-000000?style=for-the-badge&logo=rust&logoColor=white)
-
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
