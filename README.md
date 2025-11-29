@@ -27,7 +27,7 @@ impl Developer {
         Self {
             name: "Esmil",
             languages: vec!["C++ (started here)", "Rust (my current obsession)"],
-            currently_learning: "Fullstack with Rust",
+            currently_learning: "Full with Rust",
             fun_fact: "Started with C++, fell in love with Rust 🦀",
         }
     }
