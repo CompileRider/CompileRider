@@ -26,9 +26,9 @@ impl Developer {
     fn new() -> Self {
         Self {
             name: "Esmil",
-            languages: vec!["Rust (my favorite)", "C++ (the basics)"],
+            languages: vec!["C++ (started here)", "Rust (my current obsession)"],
             currently_learning: "Fullstack with Rust",
-            fun_fact: "2 months into C++ and already fighting with pointers 💀",
+            fun_fact: "Started with C++, fell in love with Rust 🦀",
         }
     }
 }
@@ -36,11 +36,11 @@ impl Developer {
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🦀 **My language:** Rust (fullstack)
-- 🌱 **Learning:** C++ (2 months in, still wrestling with pointers)
+- 🦀 **My languages:** Started with C++, now obsessed with Rust
+- 🌱 **Learning:** Fullstack development with Rust
 - 🔧 **Building:** Personal projects in Rust
-- 💬 **Ask me about:** Rust, backend, or how to survive the borrow checker
-- ⚡ **Fun fact:** Started with Rust, now everything else feels unsafe 😅
+- 💬 **Ask me about:** Rust, backend, or why Rust is better than C++ 😄
+- ⚡ **Fun fact:** C++ taught me pointers, Rust taught me safety 🦀
 - ☕ **Current status:** Debugging with coffee
 
 <br clear="right"/>
@@ -52,8 +52,8 @@ impl Developer {
 <div align="center">
 
 ### Languages
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++_(Basic)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++_(Started_Here)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust_(Current)-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frontend (Rust)
 ![Yew](https://img.shields.io/badge/Yew-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -162,10 +162,10 @@ loop {
 ### 🎯 Real Fun Facts
 
 - 🐛 **My debugging:** Works best at 3 AM with coffee
-- 🦀 **Rust:** My first serious language and I don't regret it
-- 💀 **C++:** 2 months in and I already know pointers are evil
+- 🦀 **Rust:** Started with C++, never looked back after discovering Rust
+- 💀 **C++:** Taught me about pointers and memory management
 - ☕ **Coffee:** My best friend during long coding sessions
-- 🔥 **Borrow Checker:** My biggest love-hate relationship
+- 🔥 **Borrow Checker:** Tough love that makes better code
 - 📚 **Stack Overflow:** My second home
 - 🎮 **Breaks:** Gaming to clear my mind
 
