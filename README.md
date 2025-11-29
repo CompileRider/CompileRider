@@ -189,9 +189,7 @@ loop {
 
 <div align="center">
 
-<a href="https://github.com/CompileRIder">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CompileRIder&bg_color=1a1b27&color=4ec9b0&line=4ec9b0&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
-</a>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=CompileRIder&bg_color=1a1b27&color=4ec9b0&line=4ec9b0&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
