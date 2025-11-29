@@ -82,11 +82,14 @@ impl Developer {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/CompileRIder)
+<a href="https://github.com/CompileRIder">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CompileRIder&theme=tokyonight&hide_border=true)](https://github.com/CompileRIder)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/CompileRIder)
+<a href="https://github.com/CompileRIder">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CompileRIder&theme=tokyonight&hide_border=true" alt="CompileRIder's streak"/>
+</a>
 
 </div>
 
@@ -186,7 +189,9 @@ loop {
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CompileRIder&bg_color=0d1117&color=4ec9b0&line=4ec9b0&point=ffffff&area=true&hide_border=true)](https://github.com/CompileRIder)
+<a href="https://github.com/CompileRIder">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=CompileRIder&bg_color=1a1b27&color=4ec9b0&line=4ec9b0&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+</a>
 
 </div>
 
