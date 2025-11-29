@@ -99,8 +99,6 @@ impl Developer {
 
 ### 💻 Current Projects
 - Fullstack apps with Rust
-- Exploring Axum and Actix-web
-- Learning frontend with Yew/Leptos
 - Fighting the borrow checker (and winning)
 
 </td>
@@ -108,8 +106,6 @@ impl Developer {
 
 ### 📚 Learning
 - Fullstack Rust
-- Async/await patterns
-- WebAssembly
 - C++ (just the basics, chill)
 
 </td>
