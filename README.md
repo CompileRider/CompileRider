@@ -82,9 +82,9 @@ print(f"Welcome! I'm {me.name}, specializing in {me.specialization} 🤖")
 
 <div align="center">
 
-![CompileRIder's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=radical&hide_border=true)
+![CompileRIder's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileRider&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRider&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
