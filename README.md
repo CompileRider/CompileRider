@@ -2,9 +2,10 @@
 
 # 👋 Hi there! I'm Esmil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Python+Developer+🐍;Learning+Every+Day+🚀;Coffee+%2B+Code+%3D+❤️" alt="Typing SVG" />
+**Python Developer | NLP Specialist | Machine Learning Enthusiast**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CompileRIder&color=blueviolet&style=for-the-badge)](https://github.com/CompileRIder)
+[![GitHub followers](https://img.shields.io/github/followers/CompileRIder?label=Follow&style=social)](https://github.com/CompileRIder)
 
 </div>
 
@@ -16,36 +17,38 @@
 class Developer:
     def __init__(self):
         self.name = "Esmil"
-        self.languages = ["Python (my passion)", "C++ (where I started)"]
-        self.currently_learning = "Advanced Python & Data Science"
+        self.languages = ["C++ (started here)", "Python (my current obsession)"]
+        self.specialization = "Natural Language Processing"
+        self.currently_learning = "Advanced NLP & Large Language Models"
         self.fun_fact = "Started with C++, fell in love with Python 🐍"
     
-    def get_info(self):
+    def get_nlp_skills(self):
         return {
-            "name": self.name,
-            "languages": self.languages,
-            "learning": self.currently_learning
+            "libraries": ["spaCy", "NLTK", "Transformers", "Hugging Face"],
+            "tasks": ["Text Classification", "Sentiment Analysis", "NER", "LLMs"],
+            "frameworks": ["TensorFlow", "PyTorch", "scikit-learn"]
         }
 
 # Creating instance
 me = Developer()
-print(f"Hi! I'm {me.name} 👋")
+print(f"Welcome! I'm {me.name}, specializing in {me.specialization} 🤖")
 ```
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - 🐍 **My languages:** Started with C++, now obsessed with Python
-- 🌱 **Learning:** Advanced Python, Data Science, and Web Development
-- 🔧 **Building:** Personal projects in Python
-- 💬 **Ask me about:** Python, or why Python is so versatile 😄
+- 🤖 **Specialization:** Natural Language Processing & Machine Learning
+- 🌱 **Learning:** Advanced NLP, Transformers, and LLM Fine-tuning
+- 🔧 **Building:** NLP applications, chatbots, and text analysis tools
+- 💬 **Ask me about:** Python, NLP, or why spaCy is amazing 😄
 - ⚡ **Fun fact:** C++ taught me pointers, Python taught me simplicity 🐍
-- ☕ **Current status:** Debugging with coffee
+- ☕ **Current status:** Training models with coffee
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ What I Actually Know
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -53,12 +56,23 @@ print(f"Hi! I'm {me.name} 👋")
 ![Python](https://img.shields.io/badge/Python_(Current)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++_(Started_Here)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Tools & Frameworks
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Pip](https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### NLP & Machine Learning
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -73,20 +87,6 @@ print(f"Hi! I'm {me.name} 👋")
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/CompileRIder">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CompileRIder&theme=tokyonight&hide_border=true" alt="CompileRIder's streak"/>
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CompileRIder&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
 </div>
 
 ---
@@ -98,21 +98,61 @@ print(f"Hi! I'm {me.name} 👋")
 <td width="50%">
 
 ### 💻 Current Projects
-- Developing apps with Python
-- Building data analysis tools
-- Web development projects
+- 🤖 Developing NLP applications with Python
+- 💬 Building intelligent chatbots
+- 📊 Text analysis and sentiment classification
+- 🧠 Fine-tuning transformer models
 
 </td>
 <td width="50%">
 
-### 📚 Learning
-- Advanced Python
-- Data Science
-- C++ (just the basics, chill)
+### 📚 Learning & Exploring
+- Advanced NLP techniques
+- Large Language Models (LLMs)
+- Transformer architectures (BERT, GPT)
+- MLOps and model deployment
+- Vector databases & embeddings
 
 </td>
 </tr>
 </table>
+
+---
+
+## 🤖 NLP Specialization
+
+<div align="center">
+
+```python
+# My NLP expertise
+nlp_expertise = {
+    "text_processing": {
+        "tokenization": True,
+        "lemmatization": True,
+        "pos_tagging": True,
+        "ner": True  # Named Entity Recognition
+    },
+    "ml_tasks": {
+        "text_classification": "Expert",
+        "sentiment_analysis": "Expert",
+        "topic_modeling": "Intermediate",
+        "text_generation": "Learning",
+        "question_answering": "Learning"
+    },
+    "models": [
+        "BERT", "GPT", "RoBERTa", "T5",
+        "Word2Vec", "GloVe", "FastText"
+    ],
+    "frameworks": [
+        "spaCy", "NLTK", "Transformers",
+        "Gensim", "TextBlob"
+    ]
+}
+
+print("🎯 Building NLP solutions to understand human language")
+```
+
+</div>
 
 ---
 
@@ -121,32 +161,34 @@ print(f"Hi! I'm {me.name} 👋")
 <div align="center">
 
 ```python
-# My daily life
+# My daily life as an NLP developer
 import coffee
-from debugging import solve_bug
+from nlp import train_model, debug_tokenizer
 
 class MyLife:
     def __init__(self):
         self.developer = "Esmil"
-        self.bugs_fixed = 0
+        self.models_trained = 0
         self.coffee_consumed = float('inf')
+        self.papers_read = "too many"
     
     def daily_routine(self):
         while True:
             try:
-                self.write_code()
-                self.test_code()
-                print("It works! 🎉")
+                self.preprocess_data()
+                self.train_model()
+                self.evaluate_metrics()
+                print("Model accuracy: 98%! 🎉")
                 break
             except Exception as e:
                 print(f"Error: {e}")
                 coffee.drink()
-                self.read_docs()
+                self.read_nlp_papers()
+                self.check_stack_overflow()
                 continue  # Try again
     
-    def check_status(self):
-        if self.code_runs():
-            print("If it runs, it's perfect 🐍")
+    def philosophy(self):
+        print("If the F1-score is good, I'm happy 🐍")
 
 life = MyLife()
 life.daily_routine()
@@ -156,13 +198,14 @@ life.daily_routine()
 
 ### 🎯 Real Fun Facts
 
-- 🐛 **My debugging:** Works best at 3 AM with coffee
+- 🐛 **My debugging:** Works best at 3 AM with coffee and NLP papers
 - 🐍 **Python:** Started with C++, never looked back after discovering Python
 - 💀 **C++:** Taught me about pointers and memory management
-- ☕ **Coffee:** My best friend during long coding sessions
-- 🔥 **Indentation:** Python's strict but fair teacher
-- 📚 **Stack Overflow:** My second home
-- 🎮 **Breaks:** Gaming to clear my mind
+- 🤖 **NLP:** Making computers understand human language is my passion
+- ☕ **Coffee:** Essential for training large models
+- 🔥 **Transformers:** The revolution in NLP that changed everything
+- 📚 **Stack Overflow:** My second home when tokenizers break
+- 🎮 **Breaks:** Gaming to let models train in the background
 
 ---
 
@@ -171,32 +214,23 @@ life.daily_routine()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge&logo=github)](https://github.com/CompileRIder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
 [![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
 
-[![GitHub Contribution Snake](https://raw.githubusercontent.com/CompileRIder/CompileRIder/output/github-contribution-grid-snake.svg)](https://github.com/CompileRIder)
-
-</div>
-
----
-
-<div align="center">
-
-### 💼 Open to collaborate on Python projects and job opportunities
-
-[![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4ec9b0,100:ff6b6b&height=120&section=footer)](https://github.com/CompileRIder)
+### 💼 Open to collaborate on Python & NLP projects and job opportunities
 
 **"Beautiful is better than ugly. Explicit is better than implicit."** - The Zen of Python 🐍
 
+**"The best models are trained with patience, coffee, and good data"** ☕
+
 ![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/Specialized%20in-NLP-success?style=flat)
 ![Love](https://img.shields.io/badge/Made%20with-❤️%20%26%20Coffee-red?style=flat)
 ![Learning](https://img.shields.io/badge/Status-Learning-brightgreen?style=flat)
 
