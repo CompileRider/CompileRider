@@ -82,10 +82,9 @@ print(f"Welcome! I'm {me.name}, specializing in {me.specialization} 🤖")
 
 <div align="center">
 
-<a href="https://github.com/CompileRIder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -214,7 +213,7 @@ life.daily_routine()
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge&logo=github)](https://github.com/CompileRIder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
 [![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
 
 </div>
