@@ -1,16 +1,11 @@
 <div align="center">
 
-# 👋 Hi there! I'm Esmil
+# 👋 Hi, I'm Esmil Vicioso Mercado
 
-**Python Developer | NLP Specialist | Machine Learning Engineer**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=NLP+Engineer+%7C+Python+Developer;Building+AI+Language+Solutions;Passionate+About+Machine+Learning" alt="Typing SVG" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=flat-square&logo=google&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CompileRIder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
 
 </div>
 
@@ -18,121 +13,72 @@
 
 ## 🚀 About Me
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Esmil"
-        self.role = "Python Developer & NLP Specialist"
-        self.languages = ["Python", "C++"]
-        self.specialization = "Natural Language Processing"
-        self.currently_learning = ["LLMs", "Transformers", "MLOps"]
-    
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
-        print("Let's build something amazing with NLP 🤖")
-
-me = Developer()
-me.say_hi()
-```
-
-- 🐍 **Python Developer** with passion for NLP & Machine Learning
-- 🤖 Building intelligent systems that understand human language
-- 🧠 Specialized in **transformers**, **text analysis**, and **chatbots**
-- 📊 Experienced with **spaCy**, **Hugging Face**, **TensorFlow**, **PyTorch**
-- ☕ Powered by coffee and curiosity
+NLP Engineer specializing in **Natural Language Processing** and **Machine Learning**. I build intelligent systems that understand and generate human language using cutting-edge AI technologies. My expertise spans from deep learning with Python to systems programming with Rust and C++, allowing me to create both powerful and efficient solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Technical Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### Core Technologies
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### NLP & Machine Learning
+
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Data Science & Tools
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Expertise
 
-| 💼 Projects | 📚 Learning |
-|:-----------|:-----------|
-| 🤖 NLP Pipeline Development | 🧠 Large Language Models |
-| 💬 Chatbot & Conversational AI | 🔧 Model Fine-tuning |
-| 📊 Sentiment Analysis Tools | 🚀 MLOps & Deployment |
-| 🏷️ Named Entity Recognition | 📊 Vector Databases |
+- 🤖 **Natural Language Processing** - Text Classification, NER, Sentiment Analysis
+- 📊 **Machine Learning** - Deep Learning, Model Training & Optimization
+- 🔧 **Large Language Models** - Transformers, Fine-tuning, RAG Systems
+- ⚡ **Systems Programming** - Performance-critical applications with Rust & C++
 
 ---
 
-## 🧠 NLP Expertise
+## 📊 GitHub Stats
 
 <div align="center">
 
-**Text Processing** • **Sentiment Analysis** • **Text Classification** • **Named Entity Recognition** • **Topic Modeling** • **Question Answering** • **Text Generation** • **Summarization**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompileRider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
 
-**Models:** BERT • GPT • RoBERTa • T5 • Word2Vec • GloVe • FastText
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRider&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
 ---
 
-## 📈 Skills & Tools
-
-```python
-skills = {
-    "nlp_libraries": ["spaCy", "NLTK", "Transformers", "Gensim", "TextBlob"],
-    "ml_frameworks": ["TensorFlow", "PyTorch", "scikit-learn"],
-    "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
-    "development": ["Python", "C++", "Git", "Docker", "Jupyter"],
-    "specialization": ["NLP", "Machine Learning", "Deep Learning", "Text Analytics"]
-}
-```
-
----
-
-## ☕ Fun Facts
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=☕+Essential+for+training+models;🎵+Best+debugging+at+3+AM;🚀+If+it+compiles%2C+ship+it!;🤖+Teaching+machines+to+understand+humans;🎮+Gaming+while+models+train;✨+Beautiful+code+%3E+Complex+code;🐍+spaCy+is+just+elegant!;🧠+Obsessed+with+Large+Language+Models" alt="Fun Facts" />
+### 💬 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:4facfe,100:00f2fe&height=100&section=footer&animation=twinkling" width="100%"/>
+I'm always open to collaborating on NLP projects and discussing AI/ML innovations.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Open to collaborations, interesting projects, and career opportunities!**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CompileRIder)
-
----
-
-**"Beautiful is better than ugly. Explicit is better than implicit."**
-
-*— The Zen of Python*
-
-![Made with Python](https://img.shields.io/badge/Made_with-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Focus NLP](https://img.shields.io/badge/Focus-NLP-success?style=flat)
-![Always Learning](https://img.shields.io/badge/Status-Always_Learning-blue?style=flat)
+<img src="https://komarev.com/ghpvc/?username=CompileRider&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
 
 </div>
