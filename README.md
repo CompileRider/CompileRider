@@ -78,13 +78,11 @@ print(f"Welcome! I'm {me.name}, specializing in {me.specialization} 🤖")
 
 ---
 
-## 📊 GitHub Activity
-
 <div align="center">
 
-![CompileRIder's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileRider&show_icons=true&theme=radical&hide_border=true)
+![CompileRider's GitHub stats](https://github-readme-stats.vercel.app/api?username=CompileRider&show_icons=true&theme=radical&hide_border=true&hide=stars,issues,pr&count_private=true)[web:1]
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRider&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRider&layout=compact&theme=radical&hide_border=true&hide_progress=false&langs_count=8)[web:1][web:7]
 
 </div>
 
