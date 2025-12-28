@@ -2,9 +2,7 @@
 
 # 👋 Hi there! I'm Esmil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Rust+Developer+%F0%9F%A6%80;Learning+Every+Day+%F0%9F%9A%80;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Python+Developer+🐍;Learning+Every+Day+🚀;Coffee+%2B+Code+%3D+❤️" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CompileRIder&color=blueviolet&style=for-the-badge)](https://github.com/CompileRIder)
 
@@ -12,35 +10,35 @@
 
 ---
 
-## 🦀 About Me
+## 🐍 About Me
 
-```rust
-struct Developer {
-    name: &'static str,
-    languages: Vec<&'static str>,
-    currently_learning: &'static str,
-    fun_fact: &'static str,
-}
-
-impl Developer {
-    fn new() -> Self {
-        Self {
-            name: "Esmil",
-            languages: vec!["C++ (started here)", "Rust (my current obsession)"],
-            currently_learning: "Full with Rust",
-            fun_fact: "Started with C++, fell in love with Rust 🦀",
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Esmil"
+        self.languages = ["Python (my passion)", "C++ (where I started)"]
+        self.currently_learning = "Advanced Python & Data Science"
+        self.fun_fact = "Started with C++, fell in love with Python 🐍"
+    
+    def get_info(self):
+        return {
+            "name": self.name,
+            "languages": self.languages,
+            "learning": self.currently_learning
         }
-    }
-}
+
+# Creating instance
+me = Developer()
+print(f"Hi! I'm {me.name} 👋")
 ```
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🦀 **My languages:** Started with C++, now obsessed with Rust
-- 🌱 **Learning:** development with Rust
-- 🔧 **Building:** Personal projects in Rust
-- 💬 **Ask me about:** Rust, or why Rust is better than C++ 😄
-- ⚡ **Fun fact:** C++ taught me pointers, Rust taught me safety 🦀
+- 🐍 **My languages:** Started with C++, now obsessed with Python
+- 🌱 **Learning:** Advanced Python, Data Science, and Web Development
+- 🔧 **Building:** Personal projects in Python
+- 💬 **Ask me about:** Python, or why Python is so versatile 😄
+- ⚡ **Fun fact:** C++ taught me pointers, Python taught me simplicity 🐍
 - ☕ **Current status:** Debugging with coffee
 
 <br clear="right"/>
@@ -52,13 +50,15 @@ impl Developer {
 <div align="center">
 
 ### Languages
+![Python](https://img.shields.io/badge/Python_(Current)-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++_(Started_Here)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust_(Current)-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### Tools
+### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Pip](https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -69,8 +69,8 @@ impl Developer {
 <div align="center">
 
 <a href="https://github.com/CompileRIder">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/CompileRIder">
@@ -98,14 +98,16 @@ impl Developer {
 <td width="50%">
 
 ### 💻 Current Projects
-- Developing apps with Rust
-- Fighting the borrow checker (and winning)
+- Developing apps with Python
+- Building data analysis tools
+- Web development projects
 
 </td>
 <td width="50%">
 
 ### 📚 Learning
-- Full Rust
+- Advanced Python
+- Data Science
 - C++ (just the basics, chill)
 
 </td>
@@ -118,25 +120,36 @@ impl Developer {
 
 <div align="center">
 
-```rust
-// My daily life
-loop {
-    let mut me = Developer::new();
+```python
+# My daily life
+import coffee
+from debugging import solve_bug
+
+class MyLife:
+    def __init__(self):
+        self.developer = "Esmil"
+        self.bugs_fixed = 0
+        self.coffee_consumed = float('inf')
     
-    match me.debug_code() {
-        Ok(_) => println!("It works! 🎉"),
-        Err(e) => {
-            println!("Error: {:?}", e);
-            me.drink_coffee();
-            me.read_docs();
-            continue; // Try again
-        }
-    }
+    def daily_routine(self):
+        while True:
+            try:
+                self.write_code()
+                self.test_code()
+                print("It works! 🎉")
+                break
+            except Exception as e:
+                print(f"Error: {e}")
+                coffee.drink()
+                self.read_docs()
+                continue  # Try again
     
-    if me.compiler_happy() {
-        println!("If the compiler is happy, I'm happy 🦀");
-    }
-}
+    def check_status(self):
+        if self.code_runs():
+            print("If it runs, it's perfect 🐍")
+
+life = MyLife()
+life.daily_routine()
 ```
 
 </div>
@@ -144,10 +157,10 @@ loop {
 ### 🎯 Real Fun Facts
 
 - 🐛 **My debugging:** Works best at 3 AM with coffee
-- 🦀 **Rust:** Started with C++, never looked back after discovering Rust
+- 🐍 **Python:** Started with C++, never looked back after discovering Python
 - 💀 **C++:** Taught me about pointers and memory management
 - ☕ **Coffee:** My best friend during long coding sessions
-- 🔥 **Borrow Checker:** Tough love that makes better code
+- 🔥 **Indentation:** Python's strict but fair teacher
 - 📚 **Stack Overflow:** My second home
 - 🎮 **Breaks:** Gaming to clear my mind
 
@@ -161,8 +174,6 @@ loop {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
 [![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 </div>
 
 ---
@@ -171,7 +182,7 @@ loop {
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/CompileRIder/CompileRIder/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Contribution Snake](https://raw.githubusercontent.com/CompileRIder/CompileRIder/output/github-contribution-grid-snake.svg)](https://github.com/CompileRIder)
 
 </div>
 
@@ -179,13 +190,13 @@ loop {
 
 <div align="center">
 
-### 💼 Open to collaborate on Rust projects and job opportunities
+### 💼 Open to collaborate on Python projects and job opportunities
 
 [![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4ec9b0,100:ff6b6b&height=120&section=footer)](https://github.com/CompileRIder)
 
-**"The compiler is not your enemy, it's your strict but fair teacher"** 🦀
+**"Beautiful is better than ugly. Explicit is better than implicit."** - The Zen of Python 🐍
 
-![Rust](https://img.shields.io/badge/Made%20with-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Love](https://img.shields.io/badge/Made%20with-❤️%20%26%20Coffee-red?style=flat)
 ![Learning](https://img.shields.io/badge/Status-Learning-brightgreen?style=flat)
 
