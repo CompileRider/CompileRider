@@ -2,70 +2,63 @@
 
 # 👋 Hi there! I'm Esmil
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=NLP+Engineer+🤖;Python+Developer+🐍;Building+AI+Solutions+🚀;Coffee+%2B+Code+%3D+❤️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Python+Developer+🐍;Learning+Every+Day+🚀;Coffee+%2B+Code+%3D+❤️" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=CompileRider&color=00D9FF&style=for-the-badge)](https://github.com/CompileRider)
+[![Profile Views](https://komarev.com/ghpvc/?username=CompileRIder&color=blueviolet&style=for-the-badge)](https://github.com/CompileRIder)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🐍 About Me
 
 ```python
-class NLPEngineer:
+class Developer:
     def __init__(self):
-        self.name = "Esmil Vicioso Mercado"
-        self.role = "NLP Engineer"
-        self.languages = ["Python", "Rust", "C++"]
-        self.current_focus = "Natural Language Processing"
-        self.journey = "C++ → Rust → Python + NLP 🚀"
+        self.name = "Esmil"
+        self.languages = ["Python (my passion)", "C++ (where I started)"]
+        self.currently_learning = "Advanced Python & Data Science"
+        self.fun_fact = "Started with C++, fell in love with Python 🐍"
     
-    def get_expertise(self):
+    def get_info(self):
         return {
-            "primary": "NLP & Machine Learning",
-            "frameworks": ["Transformers", "PyTorch", "spaCy"],
-            "interests": ["LLMs", "Text Processing", "AI Agents"],
-            "coffee_level": float('inf')  # Always high ☕
+            "name": self.name,
+            "languages": self.languages,
+            "learning": self.currently_learning
         }
 
-me = NLPEngineer()
-print(f"Hi! I'm {me.name}, building AI that understands language 🤖")
+# Creating instance
+me = Developer()
+print(f"Hi! I'm {me.name} 👋")
 ```
 
-- 🤖 **Specialization:** Natural Language Processing & Machine Learning
-- 🐍 **My Journey:** Started with C++, explored Rust, now building with Python
-- 🧠 **Currently:** Working with Transformers, LLMs, and NLP pipelines
-- 🔧 **Building:** AI solutions for text understanding and generation
-- 💬 **Ask me about:** NLP, Python, or why Rust is fast but Python is fun 😄
-- ⚡ **Fun fact:** Learned pointers in C++, now I work with attention mechanisms 🧠
-- ☕ **Status:** Training models and drinking coffee
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+- 🐍 **My languages:** Started with C++, now obsessed with Python
+- 🌱 **Learning:** Advanced Python, Data Science, and Web Development
+- 🔧 **Building:** Personal projects in Python
+- 💬 **Ask me about:** Python, or why Python is so versatile 😄
+- ⚡ **Fun fact:** C++ taught me pointers, Python taught me simplicity 🐍
+- ☕ **Current status:** Debugging with coffee
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What I Actually Know
 
 <div align="center">
 
-### Primary Languages
-![Python](https://img.shields.io/badge/Python_(Primary)-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python_(Current)-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++_(Started_Here)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### NLP & Machine Learning
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Data Science & Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Tools & Frameworks
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Pip](https://img.shields.io/badge/Pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
@@ -75,11 +68,14 @@ print(f"Hi! I'm {me.name}, building AI that understands language 🤖")
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CompileRider&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/CompileRIder">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRider&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CompileRider&theme=radical&hide_border=true)
+<a href="https://github.com/CompileRIder">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CompileRIder&theme=tokyonight&hide_border=true" alt="CompileRIder's streak"/>
+</a>
 
 </div>
 
@@ -89,7 +85,7 @@ print(f"Hi! I'm {me.name}, building AI that understands language 🤖")
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CompileRider&theme=radical&no-frame=true&no-bg=true&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CompileRIder&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
@@ -101,20 +97,18 @@ print(f"Hi! I'm {me.name}, building AI that understands language 🤖")
 <tr>
 <td width="50%">
 
-### 🤖 NLP Projects
-- Building text classification systems
-- Developing chatbots with LLMs
-- Working with Transformers & fine-tuning
-- Sentiment analysis pipelines
+### 💻 Current Projects
+- Developing apps with Python
+- Building data analysis tools
+- Web development projects
 
 </td>
 <td width="50%">
 
-### 📚 Currently Learning
-- Advanced NLP techniques
-- Large Language Models
-- RAG systems & AI Agents
-- Model optimization
+### 📚 Learning
+- Advanced Python
+- Data Science
+- C++ (just the basics, chill)
 
 </td>
 </tr>
@@ -127,39 +121,34 @@ print(f"Hi! I'm {me.name}, building AI that understands language 🤖")
 <div align="center">
 
 ```python
-# My daily workflow as NLP Engineer
+# My daily life
 import coffee
-from transformers import pipeline
+from debugging import solve_bug
 
-class MyNLPLife:
+class MyLife:
     def __init__(self):
-        self.name = "Esmil"
-        self.models_trained = 0
+        self.developer = "Esmil"
+        self.bugs_fixed = 0
         self.coffee_consumed = float('inf')
-        self.debugger = "Stack Overflow"
     
     def daily_routine(self):
         while True:
             try:
-                self.preprocess_text()
-                self.train_model()
-                self.evaluate_metrics()
-                print("F1 Score: 0.95! 🎉")
+                self.write_code()
+                self.test_code()
+                print("It works! 🎉")
                 break
-            except OutOfMemoryError:
-                print("GPU said no 💀")
-                self.reduce_batch_size()
-                coffee.drink()
-                continue
             except Exception as e:
-                print(f"Model Error: {e}")
-                self.check_stackoverflow()
-                continue
+                print(f"Error: {e}")
+                coffee.drink()
+                self.read_docs()
+                continue  # Try again
     
-    def life_motto(self):
-        return "If the model converges, ship it! 🚀"
+    def check_status(self):
+        if self.code_runs():
+            print("If it runs, it's perfect 🐍")
 
-life = MyNLPLife()
+life = MyLife()
 life.daily_routine()
 ```
 
@@ -167,14 +156,13 @@ life.daily_routine()
 
 ### 🎯 Real Fun Facts
 
-- 🤖 **NLP Journey:** From C++ pointers to attention mechanisms
-- 🐍 **Python Love:** Because life's too short for memory management
-- 🦀 **Rust Phase:** Fast code, slower compile times, worth it
-- 💀 **C++ Memories:** Segmentation fault nightmares
-- ☕ **Coffee Dependency:** import coffee is not a joke
-- 🔥 **GPU Usage:** Training models at 3 AM (when electricity is cheaper)
-- 📚 **Documentation:** Hugging Face docs = my second home
-- 🎮 **Breaks:** Gaming while models train
+- 🐛 **My debugging:** Works best at 3 AM with coffee
+- 🐍 **Python:** Started with C++, never looked back after discovering Python
+- 💀 **C++:** Taught me about pointers and memory management
+- ☕ **Coffee:** My best friend during long coding sessions
+- 🔥 **Indentation:** Python's strict but fair teacher
+- 📚 **Stack Overflow:** My second home
+- 🎮 **Breaks:** Gaming to clear my mind
 
 ---
 
@@ -182,9 +170,19 @@ life.daily_routine()
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-CompileRider-181717?style=for-the-badge&logo=github)](https://github.com/CompileRider)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso_Mercado-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge&logo=github)](https://github.com/CompileRIder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
+[![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![GitHub Contribution Snake](https://raw.githubusercontent.com/CompileRIder/CompileRIder/output/github-contribution-grid-snake.svg)](https://github.com/CompileRIder)
 
 </div>
 
@@ -192,15 +190,14 @@ life.daily_routine()
 
 <div align="center">
 
-### 💼 Open to collaborate on NLP projects and AI solutions
+### 💼 Open to collaborate on Python projects and job opportunities
 
-[![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0096FF&height=120&section=footer)](https://github.com/CompileRider)
+[![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4ec9b0,100:ff6b6b&height=120&section=footer)](https://github.com/CompileRIder)
 
-**"Simple is better than complex. But NLP is never simple."** 🤖
+**"Beautiful is better than ugly. Explicit is better than implicit."** - The Zen of Python 🐍
 
-![Python](https://img.shields.io/badge/Made%20with-Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![NLP](https://img.shields.io/badge/Powered%20by-NLP-FF6F00?style=flat)
-![Coffee](https://img.shields.io/badge/Fueled%20by-☕%20Coffee-brown?style=flat)
-![Learning](https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=flat)
+![Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Love](https://img.shields.io/badge/Made%20with-❤️%20%26%20Coffee-red?style=flat)
+![Learning](https://img.shields.io/badge/Status-Learning-brightgreen?style=flat)
 
 </div>
