@@ -243,7 +243,6 @@ I'm interested in Python projects, especially those involving:
 - Open source contributions
 
 Also open to junior developer opportunities where I can grow and contribute!
-![Snake animation](https://raw.githubusercontent.com/CompileRider/CompileRider/output/dist/github-snake.svg)
 
 [![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4ec9b0,100:ff6b6b&height=120&section=footer)](https://github.com/CompileRIder)
 
