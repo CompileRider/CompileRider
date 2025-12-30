@@ -69,12 +69,12 @@ print(f"{me.name} | {me.get_status()}")
 
 <div align="center">
 
-<a href="https://github.com/CompileRIder">
+<a href="https://github.com/CompileRider">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </a>
 
-<a href="https://github.com/CompileRIder">
+<a href="https://github.com/CompileRider">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CompileRIder&theme=tokyonight&hide_border=true" alt="CompileRIder's streak"/>
 </a>
 
@@ -86,7 +86,7 @@ print(f"{me.name} | {me.get_status()}")
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=CompileRIder&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=CompileRider&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
 
