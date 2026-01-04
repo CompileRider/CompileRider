@@ -1,154 +1,78 @@
-<div align="center">
+# Hi, I'm Esmil 👋
 
-# 👋 Hi there! I'm Esmil
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Rust+Developer+🦀;Learning+Every+Day+🚀;Coffee+%2B+Code+%3D+❤️" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=CompileRIder\&color=blueviolet\&style=for-the-badge)](https://github.com/CompileRIder)
-
-</div>
+**C Developer | System Programming Enthusiast**
 
 ---
 
-## 🦀 About Me
+## About Me
 
-```rust
-struct Developer {
-    name: &'static str,
-    languages: Vec<&'static str>,
-    currently_learning: &'static str,
-    fun_fact: &'static str,
-}
+I'm a C developer passionate about system programming and building efficient, low-level applications. I focus on writing clean, performant code and creating robust development environments.
 
-impl Developer {
-    fn new() -> Self {
-        Self {
-            name: "Esmil",
-            languages: vec!["C++ (started here)", "Rust (current obsession)"],
-            currently_learning: "Rust ecosystem",
-            fun_fact: "Started with C++, stayed for Rust 🦀",
-        }
-    }
-}
-```
-
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-* 🦀 **Languages:** C++ → Rust
-* 🌱 **Learning:** Rust development
-* 🔧 **Building:** Personal Rust projects
-* ☕ **Status:** Powered by coffee
-
-<br clear="right"/>
+- 🔧 **Primary Language:** C
+- 🌱 **Currently Learning:** Advanced C techniques, CMake, and system optimization
+- 💻 **Focus:** System programming, performance optimization
+- 🛠️ **Tools:** Neovim, CMake, GDB, Valgrind
 
 ---
 
-## 🛠️ What I Actually Know
-
-<div align="center">
+## Tech Stack
 
 ### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![C++](https://img.shields.io/badge/C++_\(Started_Here\)-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust_\(Current\)-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+### Tools & Technologies
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+## GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CompileRider&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRider&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Featured Projects
 
-<div align="center">
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=CompileRIder&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
-  alt="GitHub Stats"/>
-
-<img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CompileRIder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  alt="Most Used Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=CompileRIder&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"/>
-
-</div>
+### 🔧 [nvim-config](https://github.com/CompileRider/nvim-config)
+Professional Neovim configuration optimized for C/C++ development
+- Modern LSP integration with neocmakelsp
+- Advanced CMake tools and debugging support
+- Smooth animations and professional UI
 
 ---
 
-## 🏆 GitHub Trophies
+## Current Focus
 
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=CompileRIder\&theme=radical\&no-frame=true\&no-bg=true\&column=7\&margin-w=15\&margin-h=15)
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Current Projects
-
-* Rust applications
-* Winning arguments with the borrow checker
-
-</td>
-<td width="50%">
-
-### 📚 Learning
-
-* Advanced Rust
-* C++ fundamentals (selectively)
-
-</td>
-</tr>
-</table>
+- 🔍 **Exploring:** Advanced C programming patterns
+- 🛠️ **Building:** System-level applications
+- 📚 **Learning:** Performance optimization techniques
+- 🎯 **Goal:** Mastering low-level programming
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge\&logo=github)](https://github.com/CompileRIder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
-[![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/CompileRIder/CompileRIder/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CompileRider)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
 
 ---
 
 <div align="center">
 
-**“The compiler is not your enemy. It just hates you personally.”** 🦀
+**"Talk is cheap. Show me the code."** - Linus Torvalds
 
-![Rust](https://img.shields.io/badge/Made_with-Rust-black?style=flat\&logo=rust)
-![Coffee](https://img.shields.io/badge/Fueled_by-Coffee-brown?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=CompileRider&color=58a6ff&style=flat-square)
 
 </div>
