@@ -64,12 +64,6 @@ Developer esmil = {
 
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=CompileRider&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CompileRider&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=FF6B6B&point=58A6FF&area=true&hide_border=true)
 
 </div>
