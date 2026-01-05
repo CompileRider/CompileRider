@@ -69,8 +69,7 @@ impl Developer {
 <div align="center">
 
 <a href="https://github.com/CompileRider">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CompileRider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CompileRider&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=CompileRider&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 </a>
 
 <a href="https://github.com/CompileRider">
@@ -158,7 +157,7 @@ loop {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CompileRider-181717?style=for-the-badge&logo=github)](https://github.com/CompileRider)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
 [![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
