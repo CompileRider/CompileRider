@@ -1,52 +1,68 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+ name: Metrics
 
-on:
-  schedule:
-    - cron: "0 * * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - master
-      - main
+  on:
+    schedule:
+      - cron: "0 * * * *"
+    workflow_dispatch:
+    push:
+      branches:
+        - main
+        - master
 
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
+  jobs:
+    github-metrics:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
 
-          template: classic
-          base: header, activity, community, repositories
-          base_skip: yes
-          config_timezone: America/Santo_Domingo
+      steps:
+        - uses: lowlighter/metrics@latest
+          with:
+            token: ${{ secrets.METRICS_TOKEN }}
 
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+            # General
+            template: classic
+            filename: github-metrics.svg
+            base: header, activity, community, repositories
+            config_timezone: America/Santo_Domingo
 
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_other: yes
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+            # Calendar
+            plugin_isocalendar: yes
+            plugin_isocalendar_duration: full-year
 
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
+            # Languages
+            plugin_languages: yes
+            plugin_languages_limit: 8
+            plugin_languages_sections: most-used
+            plugin_languages_categories: programming, markup
+            plugin_languages_threshold: 0%
+            plugin_languages_other: yes
+            plugin_languages_colors: github
+            plugin_languages_analysis_timeout: 15
+            plugin_languages_analysis_timeout_repositories: 7.5
+            plugin_languages_recent_days: 14
+            plugin_languages_recent_load: 300
+            plugin_languages_recent_categories: programming, markup
 
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 14
+            # Code volume
+            plugin_lines: yes
+            plugin_lines_sections: base
+            plugin_lines_history_limit: 1
+            plugin_lines_repositories_limit: 4
+
+            # Coding habits
+            plugin_habits: yes
+            plugin_habits_facts: yes
+            plugin_habits_charts: yes
+            plugin_habits_from: 200
+            plugin_habits_days: 14
+
+            # Issues / PR follow-up
+            plugin_followup: yes
+            plugin_followup_sections: repositories, user
+
+            # Stars
+            plugin_stargazers: yes
+            plugin_stargazers_charts: yes
+            plugin_stargazers_charts_type: classic
+            plugin_stargazers_days: 14
