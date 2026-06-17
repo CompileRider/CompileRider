@@ -1,56 +1,96 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24,30&text=CompileRider&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Python%20%7C%20Linux&descAlignY=56&fontColor=ffffff" alt="CompileRider header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3200&pause=1400&color=7C3AED&center=true&vCenter=true&width=900&lines=Machine+Learning+and+AI-focused+Developer;Python%2C+Linux%2C+NLP%2C+and+Developer+Tooling;Building+practical+systems+with+clean+engineering" alt="Typing intro" />
+# 👋 Hi there! I'm Esmil
 
-  <p>
-    <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-4c1d95?style=for-the-badge" alt="Focus" />
-    <img src="https://img.shields.io/badge/Primary-Python-1f6feb?style=for-the-badge" alt="Primary language" />
-    <img src="https://img.shields.io/badge/Platform-Linux-111827?style=for-the-badge" alt="Platform" />
-    <img src="https://img.shields.io/badge/Location-Dominican%20Republic-7c3aed?style=for-the-badge" alt="Location" />
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4EC9B0&center=true&vCenter=true&width=600&lines=Rust+Developer+%F0%9F%A6%80;Learning+Every+Day+%F0%9F%9A%80;Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" />
 
-  <p>
-    <img src="https://img.shields.io/badge/Engineering-Readable%20%7C%20Maintainable%20%7C%20Practical-5b21b6?style=flat-square" alt="Engineering approach" />
-    <img src="https://img.shields.io/badge/Environment-Linux--first-0f172a?style=flat-square" alt="Environment" />
-    <img src="https://img.shields.io/badge/Workflow-Build%2C%20measure%2C%20iterate-1d4ed8?style=flat-square" alt="Workflow" />
-  </p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=CompileRIder&color=blueviolet&style=for-the-badge)](https://github.com/CompileRIder)
+
 </div>
 
-## About Me
+---
 
-I am an AI and machine learning-focused developer from the Dominican Republic.
-My work is centered on practical Python systems, natural language processing, developer tooling, and Linux-first workflows.
-I care about writing software that is readable, maintainable, and useful beyond demos.
+## 🦀 About Me
 
-## Current Focus
+```rust
+struct Developer {
+    name: &'static str,
+    languages: Vec<&'static str>,
+    currently_learning: &'static str,
+    fun_fact: &'static str,
+}
 
-- Machine learning engineering fundamentals
-- Natural language processing and text-based systems
-- Model evaluation, experimentation, and iteration
-- Developer tooling and workflow automation
-- Writing cleaner Python and Rust
+impl Developer {
+    fn new() -> Self {
+        Self {
+            name: "Esmil",
+            languages: vec!["C++ (started here)", "Rust (current obsession)"],
+            currently_learning: "Rust ecosystem",
+            fun_fact: "Started with C++, stayed for Rust 🦀",
+        }
+    }
+}
+```
 
-## Core Stack
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,rust,linux,git,github,neovim,pycharm" alt="Core stack icons" />
-</p>
+* 🦀 **Languages:** C++ → Rust
+* 🌱 **Learning:** Rust development
+* 🔧 **Building:** Personal Rust projects
+* ☕ **Status:** Powered by coffee
 
-## What I'm Building
+<br clear="right">
 
-- End-to-end AI and ML projects with practical scope
-- Better tooling for experimentation and day-to-day development
-- Stronger foundations in deep learning and model behavior
-- Cleaner engineering workflows for research, automation, and reverse engineering
+---
 
-## Engineering Principles
+## 🛠️ What I Actually Know
 
-- Prefer readable, maintainable code over clever code
-- Build systems that are useful in practice, not just interesting in demos
-- Treat tooling and workflow quality as part of engineering quality
-- Keep improving through iteration, feedback, and public projects
+<div align="center">
 
-## Metrics
+### Languages
 
-![Metrics](/github-metrics.svg)
+![C++](https://img.shields.io/badge/C++%20(Started%20Here)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust%20(Current)-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge&logo=github)](https://github.com/CompileRIder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-mercado-7885b9388/)
+[![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/CompileRIder/CompileRIder/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**"The compiler is not your enemy. It just hates you personally."** 🦀
+
+![Rust](https://img.shields.io/badge/Made_with-Rust-black?style=flat&logo=rust)
+![Coffee](https://img.shields.io/badge/Fueled_by-Coffee-brown?style=flat)
+
+</div>
