@@ -51,7 +51,6 @@ impl Developer {
 
 ### Languages
 
-![C++](https://img.shields.io/badge/C++%20(Started%20Here)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust%20(Current)-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Tools
