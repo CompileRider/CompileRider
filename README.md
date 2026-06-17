@@ -79,7 +79,7 @@ impl Developer {
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/CompileRIder/CompileRIder/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/CompileRIder/CompileRIder/output/github-contribution-grid-snake-dark.svg?sanitize=true)
 
 </div>
 
