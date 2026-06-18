@@ -77,11 +77,11 @@ impl Developer {
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-![](https://raw.githubusercontent.com/CompileRIder/CompileRIder/output/github-contribution-grid-snake-dark.svg?sanitize=true)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CompileRider/CompileRider/output/github-contribution-grid-snake-dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CompileRider/CompileRider/output/github-contribution-grid-snake.gif" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/CompileRider/CompileRider/output/github-contribution-grid-snake.gif" />
+</picture>
 
 ---
 
