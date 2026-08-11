@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=CompileRIder&color=blueviolet&style=for-the-badge)](https://github.com/CompileRIder)
+[![Profile Views](https://komarev.com/ghpvc/?username=CompileRIder\&color=blueviolet\&style=for-the-badge)](https://github.com/CompileRIder)
 
 </div>
 
@@ -17,7 +17,7 @@
 ```rust
 struct Developer {
     name: &'static str,
-    languages: Vec<&'static str>,
+    language: &'static str,
     currently_learning: &'static str,
     fun_fact: &'static str,
 }
@@ -26,9 +26,9 @@ impl Developer {
     fn new() -> Self {
         Self {
             name: "Esmil",
-            languages: vec!["C++ (started here)", "Rust (current obsession)"],
+            language: "Rust",
             currently_learning: "Rust ecosystem",
-            fun_fact: "Started with C++, stayed for Rust 🦀",
+            fun_fact: "Rust is my current obsession 🦀",
         }
     }
 }
@@ -36,9 +36,10 @@ impl Developer {
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-* 🦀 **Languages:** C++ → Rust
+* 🦀 **Language:** Rust
 * 🌱 **Learning:** Rust development
 * 🔧 **Building:** Personal Rust projects
+* ⚡ **Editors:** Zed & Vim
 * ☕ **Status:** Powered by coffee
 
 <br clear="right">
@@ -49,16 +50,20 @@ impl Developer {
 
 <div align="center">
 
-### Languages
+### 🦀 Language & Toolchain
 
-![Rust](https://img.shields.io/badge/Rust%20(Current)-000000?style=for-the-badge&logo=rust&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="42" height="42" alt="Rust"/>
+&nbsp;&nbsp;&nbsp;
 
-### Tools
+<br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<img src="logo.svg" height="28">
-<img src="https://img.shields.io/badge/HELIX-4A2E5E?style=for-the-badge">
-![Cargo](https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white)
+### 🔧 Development Tools
+
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/git/default.svg" width="42" height="42" alt="Git"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/zed/default.svg" width="42" height="42" alt="Zed"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/vim/default.svg" width="42" height="42" alt="Vim"/>
 
 </div>
 
@@ -68,9 +73,11 @@ impl Developer {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge&logo=github)](https://github.com/CompileRIder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
-[![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge\&logo=github)](https://github.com/CompileRIder)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
+
+[![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
 
 </div>
 
@@ -80,7 +87,12 @@ impl Developer {
 
 **"The compiler is not your enemy. It just hates you personally."** 🦀
 
-![Rust](https://img.shields.io/badge/Made_with-Rust-black?style=flat&logo=rust)
-![Coffee](https://img.shields.io/badge/Fueled_by-Coffee-brown?style=flat)
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="24" height="24" alt="Rust"/>
+&nbsp;&nbsp;
+Made with Rust
+
+ 
+
+☕ Fueled by Coffee
 
 </div>
