@@ -54,6 +54,7 @@ impl Developer {
 
 <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/rust/default.svg" width="42" height="42" alt="Rust"/>
 &nbsp;&nbsp;&nbsp;
+<img src="./crates_icon_256x256.png" width="42" height="42" alt="Crates"/>
 
 <br>
 
