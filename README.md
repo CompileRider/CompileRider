@@ -77,9 +77,6 @@ impl Developer {
 [![GitHub](https://img.shields.io/badge/GitHub-CompileRIder-181717?style=for-the-badge\&logo=github)](https://github.com/CompileRIder)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esmil_Vicioso-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/esmil-vicioso-mercado-7885b9388/)
-
-[![Email](https://img.shields.io/badge/Email-esmilviciosomercado-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:esmilviciosomercado@gmail.com)
-
 </div>
 
 ---
